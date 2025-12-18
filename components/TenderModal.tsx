@@ -41,11 +41,17 @@ export default function TenderModal({ tender, rawTender, onClose }: TenderModalP
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 animate-fade-in">
+    <div
+      className="fixed inset-0 z-50 flex items-center justify-center p-4 animate-fade-in"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="tender-modal-title"
+    >
       {/* Backdrop */}
       <div
         className="absolute inset-0 bg-black/50 backdrop-blur-sm"
         onClick={onClose}
+        aria-label="סגור חלון"
       />
 
       {/* Modal */}
@@ -54,7 +60,7 @@ export default function TenderModal({ tender, rawTender, onClose }: TenderModalP
         <div className="sticky top-0 z-10 bg-gradient-to-l from-terracotta-500 to-terracotta-600 text-white p-6 md:p-8">
           <div className="flex items-start justify-between gap-4">
             <div className="flex-1 text-right">
-              <h2 className="text-2xl md:text-3xl font-bold mb-2">
+              <h2 id="tender-modal-title" className="text-2xl md:text-3xl font-bold mb-2">
                 {tender.city_name}
                 {tender.neighborhood && (
                   <span className="text-terracotta-100">، {tender.neighborhood}</span>
@@ -66,8 +72,9 @@ export default function TenderModal({ tender, rawTender, onClose }: TenderModalP
             </div>
             <button
               onClick={onClose}
-              className="flex-shrink-0 w-10 h-10 rounded-full bg-white/20 hover:bg-white/30 flex items-center justify-center transition-colors"
-              aria-label="סגור"
+              className="flex-shrink-0 w-10 h-10 rounded-full bg-white/20 hover:bg-white/30 flex items-center justify-center transition-colors focus:outline-none focus:ring-2 focus:ring-white"
+              aria-label="סגור חלון פרטי מכרז"
+              type="button"
             >
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />

@@ -193,8 +193,18 @@ export default function TendersPage() {
       {/* Mobile Layout (stacked vertically) */}
       <div className="md:hidden flex flex-col min-h-screen">
         {/* Header */}
-        <div className="bg-white border-b border-gray-200 p-4 text-right">
-          <h1 className="text-2xl font-bold text-gray-900">מכרזי הקרקעות של רמ״י</h1>
+        <div className="bg-gradient-to-l from-white to-terracotta-50/30 border-b border-terracotta-100 p-4 text-right">
+          <div className="flex items-center justify-end gap-2 mb-2">
+            <h1 className="text-xl font-bold text-gray-900">Land Tenders</h1>
+            <div className="w-7 h-7 rounded-lg bg-gradient-to-br from-terracotta-500 to-terracotta-600 flex items-center justify-center shadow-sm">
+              <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+              </svg>
+            </div>
+          </div>
+          <p className="text-sm text-terracotta-700 font-medium">
+            לראשונה - גלו כמה עולה לקנות קרקע בכל מקום בארץ
+          </p>
         </div>
 
         {/* Map - fixed height */}
