@@ -1,0 +1,5567 @@
+[
+  {
+    "michraz_id": 20250434,
+    "michraz_name": "434/2025",
+    "kod_yeshuv": 628,
+    "shchuna": "אל נטוש",
+    "plots": [
+      {
+        "lot_number": "100",
+        "lot_size": "0.523",
+        "full_value": "516471",
+        "value_reservist_no_house": "464824",
+        "value_reservist_with_house": "413290",
+        "value_combat_no_house": "361757",
+        "total_development": "259586"
+      },
+      {
+        "lot_number": "102",
+        "lot_size": "0.514",
+        "full_value": "552188",
+        "value_reservist_no_house": "496969",
+        "value_reservist_with_house": "441750",
+        "value_combat_no_house": "386531",
+        "total_development": "290023"
+      },
+      {
+        "lot_number": "103",
+        "lot_size": "0.634",
+        "full_value": "655655",
+        "value_reservist_no_house": "590089",
+        "value_reservist_with_house": "524524",
+        "value_combat_no_house": "458958",
+        "total_development": "372883"
+      },
+      {
+        "lot_number": "105",
+        "lot_size": "0.636",
+        "full_value": "682409",
+        "value_reservist_no_house": "614168",
+        "value_reservist_with_house": "545927",
+        "value_combat_no_house": "477686",
+        "total_development": "373332"
+      },
+      {
+        "lot_number": "107",
+        "lot_size": "0.594",
+        "full_value": "648102",
+        "value_reservist_no_house": "583291",
+        "value_reservist_with_house": "518482",
+        "value_combat_no_house": "453673",
+        "total_development": "321591"
+      },
+      {
+        "lot_number": "108",
+        "lot_size": "0.499",
+        "full_value": "539767",
+        "value_reservist_no_house": "485790",
+        "value_reservist_with_house": "431813",
+        "value_combat_no_house": "377836",
+        "total_development": "262610"
+      },
+      {
+        "lot_number": "112",
+        "lot_size": "0.548",
+        "full_value": "676540",
+        "value_reservist_no_house": "608886",
+        "value_reservist_with_house": "541232",
+        "value_combat_no_house": "473578",
+        "total_development": "303460"
+      },
+      {
+        "lot_number": "113",
+        "lot_size": "0.507",
+        "full_value": "604058",
+        "value_reservist_no_house": "543652",
+        "value_reservist_with_house": "483247",
+        "value_combat_no_house": "422842",
+        "total_development": "287126"
+      },
+      {
+        "lot_number": "116",
+        "lot_size": "0.625",
+        "full_value": "665483",
+        "value_reservist_no_house": "598935",
+        "value_reservist_with_house": "532388",
+        "value_combat_no_house": "465840",
+        "total_development": "369175"
+      },
+      {
+        "lot_number": "117",
+        "lot_size": "0.722",
+        "full_value": "768723",
+        "value_reservist_no_house": "691851",
+        "value_reservist_with_house": "614979",
+        "value_combat_no_house": "538107",
+        "total_development": "407705"
+      },
+      {
+        "lot_number": "120",
+        "lot_size": "0.489",
+        "full_value": "539221",
+        "value_reservist_no_house": "485299",
+        "value_reservist_with_house": "431378",
+        "value_combat_no_house": "377456",
+        "total_development": "258962"
+      },
+      {
+        "lot_number": "122",
+        "lot_size": "0.467",
+        "full_value": "513149",
+        "value_reservist_no_house": "461834",
+        "value_reservist_with_house": "410519",
+        "value_combat_no_house": "359204",
+        "total_development": "250191"
+      },
+      {
+        "lot_number": "124",
+        "lot_size": "0.469",
+        "full_value": "539494",
+        "value_reservist_no_house": "485545",
+        "value_reservist_with_house": "431596",
+        "value_combat_no_house": "377647",
+        "total_development": "250632"
+      },
+      {
+        "lot_number": "129",
+        "lot_size": "0.479",
+        "full_value": "556784",
+        "value_reservist_no_house": "501106",
+        "value_reservist_with_house": "445428",
+        "value_combat_no_house": "389750",
+        "total_development": "254674"
+      },
+      {
+        "lot_number": "132",
+        "lot_size": "0.470",
+        "full_value": "543725",
+        "value_reservist_no_house": "489352",
+        "value_reservist_with_house": "434979",
+        "value_combat_no_house": "380606",
+        "total_development": "251319"
+      },
+      {
+        "lot_number": "133",
+        "lot_size": "0.495",
+        "full_value": "546865",
+        "value_reservist_no_house": "492179",
+        "value_reservist_with_house": "437494",
+        "value_combat_no_house": "382810",
+        "total_development": "261141"
+      },
+      {
+        "lot_number": "135",
+        "lot_size": "0.513",
+        "full_value": "651606",
+        "value_reservist_no_house": "586445",
+        "value_reservist_with_house": "521284",
+        "value_combat_no_house": "456123",
+        "total_development": "289611"
+      },
+      {
+        "lot_number": "136",
+        "lot_size": "0.467",
+        "full_value": "543270",
+        "value_reservist_no_house": "488943",
+        "value_reservist_with_house": "434616",
+        "value_combat_no_house": "380290",
+        "total_development": "250216"
+      },
+      {
+        "lot_number": "138",
+        "lot_size": "0.452",
+        "full_value": "530121",
+        "value_reservist_no_house": "477109",
+        "value_reservist_with_house": "424097",
+        "value_combat_no_house": "371085",
+        "total_development": "244346"
+      },
+      {
+        "lot_number": "142",
+        "lot_size": "0.510",
+        "full_value": "639685",
+        "value_reservist_no_house": "575717",
+        "value_reservist_with_house": "511748",
+        "value_combat_no_house": "447780",
+        "total_development": "288252"
+      },
+      {
+        "lot_number": "143",
+        "lot_size": "0.366",
+        "full_value": "441760",
+        "value_reservist_no_house": "397584",
+        "value_reservist_with_house": "353408",
+        "value_combat_no_house": "309232",
+        "total_development": "188792"
+      },
+      {
+        "lot_number": "144",
+        "lot_size": "0.345",
+        "full_value": "387160",
+        "value_reservist_no_house": "348444",
+        "value_reservist_with_house": "309728",
+        "value_combat_no_house": "270920",
+        "total_development": "180664"
+      },
+      {
+        "lot_number": "145",
+        "lot_size": "0.435",
+        "full_value": "516016",
+        "value_reservist_no_house": "464414",
+        "value_reservist_with_house": "412812",
+        "value_combat_no_house": "361210",
+        "total_development": "237838"
+      },
+      {
+        "lot_number": "146",
+        "lot_size": "0.408",
+        "full_value": "529256",
+        "value_reservist_no_house": "476330",
+        "value_reservist_with_house": "423404",
+        "value_combat_no_house": "370478",
+        "total_development": "226683"
+      },
+      {
+        "lot_number": "147",
+        "lot_size": "0.380",
+        "full_value": "483620",
+        "value_reservist_no_house": "435258",
+        "value_reservist_with_house": "386896",
+        "value_combat_no_house": "338534",
+        "total_development": "213183"
+      },
+      {
+        "lot_number": "148",
+        "lot_size": "0.439",
+        "full_value": "512922",
+        "value_reservist_no_house": "461630",
+        "value_reservist_with_house": "410339",
+        "value_combat_no_house": "359047",
+        "total_development": "238729"
+      },
+      {
+        "lot_number": "149",
+        "lot_size": "0.442",
+        "full_value": "531713",
+        "value_reservist_no_house": "478542",
+        "value_reservist_with_house": "425370",
+        "value_combat_no_house": "372199",
+        "total_development": "240188"
+      },
+      {
+        "lot_number": "151",
+        "lot_size": "0.385",
+        "full_value": "484302",
+        "value_reservist_no_house": "435872",
+        "value_reservist_with_house": "387441",
+        "value_combat_no_house": "339011",
+        "total_development": "217276"
+      },
+      {
+        "lot_number": "156",
+        "lot_size": "0.523",
+        "full_value": "656747",
+        "value_reservist_no_house": "591072",
+        "value_reservist_with_house": "525397",
+        "value_combat_no_house": "459722",
+        "total_development": "293148"
+      },
+      {
+        "lot_number": "157",
+        "lot_size": "0.415",
+        "full_value": "500864",
+        "value_reservist_no_house": "450778",
+        "value_reservist_with_house": "400691",
+        "value_combat_no_house": "350605",
+        "total_development": "227073"
+      },
+      {
+        "lot_number": "158",
+        "lot_size": "0.408",
+        "full_value": "499272",
+        "value_reservist_no_house": "449345",
+        "value_reservist_with_house": "399418",
+        "value_combat_no_house": "349491",
+        "total_development": "226560"
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250427,
+    "michraz_name": "427/2025",
+    "kod_yeshuv": 1181,
+    "shchuna": "",
+    "plots": [
+      {
+        "lot_number": "1025",
+        "lot_size": "0.457",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1026",
+        "lot_size": "0.458",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1027",
+        "lot_size": "0.457",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1028",
+        "lot_size": "0.455",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1029",
+        "lot_size": "0.460",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1030",
+        "lot_size": "0.454",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1031",
+        "lot_size": "0.457",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1032",
+        "lot_size": "0.451",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1033",
+        "lot_size": "0.454",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1034",
+        "lot_size": "0.456",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1035",
+        "lot_size": "0.456",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1036",
+        "lot_size": "0.459",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1037",
+        "lot_size": "0.453",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1038",
+        "lot_size": "0.453",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1039",
+        "lot_size": "0.466",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1040",
+        "lot_size": "0.459",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1041",
+        "lot_size": "0.452",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1042",
+        "lot_size": "0.458",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1043",
+        "lot_size": "0.457",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1044",
+        "lot_size": "0.457",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1045",
+        "lot_size": "0.456",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1046",
+        "lot_size": "0.453",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1047",
+        "lot_size": "0.454",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1048",
+        "lot_size": "0.454",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1141",
+        "lot_size": "0.378",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1142",
+        "lot_size": "0.379",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1169",
+        "lot_size": "0.268",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1170",
+        "lot_size": "0.255",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1171",
+        "lot_size": "0.260",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1172",
+        "lot_size": "0.257",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1173",
+        "lot_size": "0.256",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1174",
+        "lot_size": "0.255",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1175",
+        "lot_size": "0.255",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1176",
+        "lot_size": "0.253",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1177",
+        "lot_size": "0.258",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1178",
+        "lot_size": "0.257",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1179",
+        "lot_size": "0.252",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1180",
+        "lot_size": "0.257",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1181",
+        "lot_size": "0.256",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1182",
+        "lot_size": "0.258",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1183",
+        "lot_size": "0.254",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "1184",
+        "lot_size": "0.254",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250425,
+    "michraz_name": "425/2025",
+    "kod_yeshuv": 1178,
+    "shchuna": "מורשת",
+    "plots": [
+      {
+        "lot_number": "127",
+        "lot_size": "0.512",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "128",
+        "lot_size": "0.508",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "130",
+        "lot_size": "0.508",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "139",
+        "lot_size": "0.508",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "140",
+        "lot_size": "0.511",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "142",
+        "lot_size": "0.507",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "143",
+        "lot_size": "0.489",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "144",
+        "lot_size": "0.499",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "145",
+        "lot_size": "0.500",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "146",
+        "lot_size": "0.502",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "147",
+        "lot_size": "0.505",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "172",
+        "lot_size": "0.498",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "173",
+        "lot_size": "0.497",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "174",
+        "lot_size": "0.494",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "175",
+        "lot_size": "0.490",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "176",
+        "lot_size": "0.477",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "177",
+        "lot_size": "0.476",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "178",
+        "lot_size": "0.495",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "179",
+        "lot_size": "0.492",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "180",
+        "lot_size": "0.492",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "181",
+        "lot_size": "0.490",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "182",
+        "lot_size": "0.514",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "201",
+        "lot_size": "0.502",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "202",
+        "lot_size": "0.502",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "203",
+        "lot_size": "0.501",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "204",
+        "lot_size": "0.502",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "205",
+        "lot_size": "0.490",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "206",
+        "lot_size": "0.491",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "473",
+        "lot_size": "0.416",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "474",
+        "lot_size": "0.409",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "475",
+        "lot_size": "0.405",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "476",
+        "lot_size": "0.409",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "477",
+        "lot_size": "0.406",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "478",
+        "lot_size": "0.408",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "479",
+        "lot_size": "0.405",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "480",
+        "lot_size": "0.407",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "481",
+        "lot_size": "0.408",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "482",
+        "lot_size": "0.408",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "495",
+        "lot_size": "0.411",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "496",
+        "lot_size": "0.410",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "497",
+        "lot_size": "0.404",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "498",
+        "lot_size": "0.406",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250405,
+    "michraz_name": "405/2025",
+    "kod_yeshuv": 43,
+    "shchuna": "הר צפיה",
+    "plots": [
+      {
+        "lot_number": "12",
+        "lot_size": "498",
+        "full_value": "286,750",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "398,695"
+      },
+      {
+        "lot_number": "14",
+        "lot_size": "506",
+        "full_value": "288,532",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "400,064"
+      },
+      {
+        "lot_number": "17",
+        "lot_size": "505",
+        "full_value": "287,922",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "399,266"
+      },
+      {
+        "lot_number": "18",
+        "lot_size": "505",
+        "full_value": "287,922",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "399,266"
+      },
+      {
+        "lot_number": "31",
+        "lot_size": "493",
+        "full_value": "286,915",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "397,810"
+      },
+      {
+        "lot_number": "32",
+        "lot_size": "495",
+        "full_value": "287,527",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "398,728"
+      },
+      {
+        "lot_number": "33",
+        "lot_size": "476",
+        "full_value": "281,059",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "390,987"
+      },
+      {
+        "lot_number": "38",
+        "lot_size": "501",
+        "full_value": "286,338",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "397,094"
+      },
+      {
+        "lot_number": "39",
+        "lot_size": "498",
+        "full_value": "287,113",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "398,126"
+      },
+      {
+        "lot_number": "40",
+        "lot_size": "506",
+        "full_value": "289,556",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "401,242"
+      },
+      {
+        "lot_number": "47",
+        "lot_size": "467",
+        "full_value": "279,640",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "388,775"
+      },
+      {
+        "lot_number": "54",
+        "lot_size": "501",
+        "full_value": "286,700",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "397,638"
+      },
+      {
+        "lot_number": "56",
+        "lot_size": "513",
+        "full_value": "290,363",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "402,689"
+      },
+      {
+        "lot_number": "62",
+        "lot_size": "528",
+        "full_value": "293,614",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "407,314"
+      },
+      {
+        "lot_number": "69",
+        "lot_size": "502",
+        "full_value": "288,334",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "400,539"
+      },
+      {
+        "lot_number": "70",
+        "lot_size": "510",
+        "full_value": "290,116",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "402,326"
+      },
+      {
+        "lot_number": "71",
+        "lot_size": "529",
+        "full_value": "293,565",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "407,222"
+      },
+      {
+        "lot_number": "77",
+        "lot_size": "500",
+        "full_value": "287,723",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "399,132"
+      },
+      {
+        "lot_number": "79",
+        "lot_size": "503",
+        "full_value": "287,311",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "398,531"
+      },
+      {
+        "lot_number": "87",
+        "lot_size": "493",
+        "full_value": "286,915",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "397,810"
+      },
+      {
+        "lot_number": "88",
+        "lot_size": "519",
+        "full_value": "292,195",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "404,917"
+      },
+      {
+        "lot_number": "89",
+        "lot_size": "571",
+        "full_value": "304,090",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "422,963"
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250404,
+    "michraz_name": "404/2025",
+    "kod_yeshuv": 1275,
+    "shchuna": "מ.א משגב",
+    "plots": [
+      {
+        "lot_number": "301",
+        "lot_size": "336",
+        "full_value": "547900",
+        "value_reservist_no_house": "80332.85",
+        "value_reservist_with_house": "142454",
+        "value_combat_no_house": "39174.85",
+        "total_development": "55617"
+      },
+      {
+        "lot_number": "302",
+        "lot_size": "334",
+        "full_value": "548000",
+        "value_reservist_no_house": "80392",
+        "value_reservist_with_house": "142480",
+        "value_combat_no_house": "39182",
+        "total_development": "54581"
+      },
+      {
+        "lot_number": "303",
+        "lot_size": "331",
+        "full_value": "547700",
+        "value_reservist_no_house": "80214.55",
+        "value_reservist_with_house": "142402",
+        "value_combat_no_house": "39160.55",
+        "total_development": "53028"
+      },
+      {
+        "lot_number": "304",
+        "lot_size": "339",
+        "full_value": "548200",
+        "value_reservist_no_house": "80510.3",
+        "value_reservist_with_house": "142532",
+        "value_combat_no_house": "39196.3",
+        "total_development": "57170"
+      },
+      {
+        "lot_number": "305",
+        "lot_size": "333",
+        "full_value": "547600",
+        "value_reservist_no_house": "80155.4",
+        "value_reservist_with_house": "142376",
+        "value_combat_no_house": "39153.4",
+        "total_development": "54064"
+      },
+      {
+        "lot_number": "306",
+        "lot_size": "333",
+        "full_value": "547600",
+        "value_reservist_no_house": "80155.4",
+        "value_reservist_with_house": "142376",
+        "value_combat_no_house": "39153.4",
+        "total_development": "54064"
+      },
+      {
+        "lot_number": "307",
+        "lot_size": "335",
+        "full_value": "547500",
+        "value_reservist_no_house": "80096.25",
+        "value_reservist_with_house": "142350",
+        "value_combat_no_house": "39146.25",
+        "total_development": "55099"
+      },
+      {
+        "lot_number": "308",
+        "lot_size": "332",
+        "full_value": "547200",
+        "value_reservist_no_house": "79918.8",
+        "value_reservist_with_house": "142272",
+        "value_combat_no_house": "39124.8",
+        "total_development": "53546"
+      },
+      {
+        "lot_number": "309",
+        "lot_size": "337",
+        "full_value": "547400",
+        "value_reservist_no_house": "80037.1",
+        "value_reservist_with_house": "142324",
+        "value_combat_no_house": "39139.1",
+        "total_development": "56134"
+      },
+      {
+        "lot_number": "310",
+        "lot_size": "337",
+        "full_value": "547400",
+        "value_reservist_no_house": "80037.1",
+        "value_reservist_with_house": "142324",
+        "value_combat_no_house": "39139.1",
+        "total_development": "56134"
+      },
+      {
+        "lot_number": "311",
+        "lot_size": "334",
+        "full_value": "548000",
+        "value_reservist_no_house": "80392",
+        "value_reservist_with_house": "142480",
+        "value_combat_no_house": "39182",
+        "total_development": "54581"
+      },
+      {
+        "lot_number": "312",
+        "lot_size": "334",
+        "full_value": "548000",
+        "value_reservist_no_house": "80392",
+        "value_reservist_with_house": "142480",
+        "value_combat_no_house": "39182",
+        "total_development": "54581"
+      },
+      {
+        "lot_number": "313",
+        "lot_size": "346",
+        "full_value": "548200",
+        "value_reservist_no_house": "80510.3",
+        "value_reservist_with_house": "142532",
+        "value_combat_no_house": "39196.3",
+        "total_development": "60793"
+      },
+      {
+        "lot_number": "314",
+        "lot_size": "334",
+        "full_value": "548000",
+        "value_reservist_no_house": "80392",
+        "value_reservist_with_house": "142480",
+        "value_combat_no_house": "39182",
+        "total_development": "54581"
+      },
+      {
+        "lot_number": "315",
+        "lot_size": "334",
+        "full_value": "548000",
+        "value_reservist_no_house": "80392",
+        "value_reservist_with_house": "142480",
+        "value_combat_no_house": "39182",
+        "total_development": "54581"
+      },
+      {
+        "lot_number": "316",
+        "lot_size": "334",
+        "full_value": "548000",
+        "value_reservist_no_house": "80392",
+        "value_reservist_with_house": "142480",
+        "value_combat_no_house": "39182",
+        "total_development": "54581"
+      },
+      {
+        "lot_number": "317",
+        "lot_size": "334",
+        "full_value": "548000",
+        "value_reservist_no_house": "80392",
+        "value_reservist_with_house": "142480",
+        "value_combat_no_house": "39182",
+        "total_development": "54581"
+      },
+      {
+        "lot_number": "318",
+        "lot_size": "334",
+        "full_value": "548000",
+        "value_reservist_no_house": "80392",
+        "value_reservist_with_house": "142480",
+        "value_combat_no_house": "39182",
+        "total_development": "54581"
+      },
+      {
+        "lot_number": "319",
+        "lot_size": "340",
+        "full_value": "547700",
+        "value_reservist_no_house": "80214.55",
+        "value_reservist_with_house": "142402",
+        "value_combat_no_house": "39160.55",
+        "total_development": "57687"
+      },
+      {
+        "lot_number": "320",
+        "lot_size": "335",
+        "full_value": "547500",
+        "value_reservist_no_house": "80096.25",
+        "value_reservist_with_house": "142350",
+        "value_combat_no_house": "39146.25",
+        "total_development": "55099"
+      },
+      {
+        "lot_number": "321",
+        "lot_size": "335",
+        "full_value": "547500",
+        "value_reservist_no_house": "80096.25",
+        "value_reservist_with_house": "142350",
+        "value_combat_no_house": "39146.25",
+        "total_development": "55099"
+      },
+      {
+        "lot_number": "322",
+        "lot_size": "335",
+        "full_value": "547500",
+        "value_reservist_no_house": "80096.25",
+        "value_reservist_with_house": "142350",
+        "value_combat_no_house": "39146.25",
+        "total_development": "55099"
+      },
+      {
+        "lot_number": "323",
+        "lot_size": "335",
+        "full_value": "547500",
+        "value_reservist_no_house": "80096.25",
+        "value_reservist_with_house": "142350",
+        "value_combat_no_house": "39146.25",
+        "total_development": "55099"
+      },
+      {
+        "lot_number": "324",
+        "lot_size": "339",
+        "full_value": "548200",
+        "value_reservist_no_house": "80510.3",
+        "value_reservist_with_house": "142532",
+        "value_combat_no_house": "39196.3",
+        "total_development": "57170"
+      },
+      {
+        "lot_number": "436",
+        "lot_size": "510",
+        "full_value": "592400",
+        "value_reservist_no_house": "106654.6",
+        "value_reservist_with_house": "154024",
+        "value_combat_no_house": "42356.6",
+        "total_development": "145688"
+      },
+      {
+        "lot_number": "437",
+        "lot_size": "494",
+        "full_value": "582100",
+        "value_reservist_no_house": "100562.15",
+        "value_reservist_with_house": "151346",
+        "value_combat_no_house": "41620.15",
+        "total_development": "137406"
+      },
+      {
+        "lot_number": "438",
+        "lot_size": "493",
+        "full_value": "600400",
+        "value_reservist_no_house": "111386.6",
+        "value_reservist_with_house": "156104",
+        "value_combat_no_house": "42928.6",
+        "total_development": "136888"
+      },
+      {
+        "lot_number": "439",
+        "lot_size": "501",
+        "full_value": "605100",
+        "value_reservist_no_house": "114166.65",
+        "value_reservist_with_house": "157326",
+        "value_combat_no_house": "43264.65",
+        "total_development": "141029"
+      },
+      {
+        "lot_number": "440",
+        "lot_size": "505",
+        "full_value": "589500",
+        "value_reservist_no_house": "104939.25",
+        "value_reservist_with_house": "153270",
+        "value_combat_no_house": "42149.25",
+        "total_development": "143100"
+      },
+      {
+        "lot_number": "441",
+        "lot_size": "501",
+        "full_value": "618700",
+        "value_reservist_no_house": "122211.05",
+        "value_reservist_with_house": "160862",
+        "value_combat_no_house": "44237.05",
+        "total_development": "141029"
+      },
+      {
+        "lot_number": "442",
+        "lot_size": "505",
+        "full_value": "632900",
+        "value_reservist_no_house": "130610.35",
+        "value_reservist_with_house": "164554",
+        "value_combat_no_house": "45252.35",
+        "total_development": "143100"
+      },
+      {
+        "lot_number": "443",
+        "lot_size": "504",
+        "full_value": "632500",
+        "value_reservist_no_house": "130373.75",
+        "value_reservist_with_house": "164450",
+        "value_combat_no_house": "45223.75",
+        "total_development": "142582"
+      },
+      {
+        "lot_number": "444",
+        "lot_size": "507",
+        "full_value": "637000",
+        "value_reservist_no_house": "133035.5",
+        "value_reservist_with_house": "165620",
+        "value_combat_no_house": "45545.5",
+        "total_development": "144135"
+      },
+      {
+        "lot_number": "445",
+        "lot_size": "510",
+        "full_value": "636700",
+        "value_reservist_no_house": "132858.05",
+        "value_reservist_with_house": "165542",
+        "value_combat_no_house": "45524.05",
+        "total_development": "145688"
+      },
+      {
+        "lot_number": "446",
+        "lot_size": "503",
+        "full_value": "613500",
+        "value_reservist_no_house": "119135.25",
+        "value_reservist_with_house": "159510",
+        "value_combat_no_house": "43865.25",
+        "total_development": "142064"
+      },
+      {
+        "lot_number": "447",
+        "lot_size": "503",
+        "full_value": "610100",
+        "value_reservist_no_house": "117124.15",
+        "value_reservist_with_house": "158626",
+        "value_combat_no_house": "43622.15",
+        "total_development": "142064"
+      },
+      {
+        "lot_number": "448",
+        "lot_size": "505",
+        "full_value": "576100",
+        "value_reservist_no_house": "97013.15",
+        "value_reservist_with_house": "149786",
+        "value_combat_no_house": "41191.15",
+        "total_development": "143100"
+      },
+      {
+        "lot_number": "449",
+        "lot_size": "512",
+        "full_value": "611800",
+        "value_reservist_no_house": "118129.7",
+        "value_reservist_with_house": "159068",
+        "value_combat_no_house": "43743.7",
+        "total_development": "146723"
+      },
+      {
+        "lot_number": "450",
+        "lot_size": "507",
+        "full_value": "614100",
+        "value_reservist_no_house": "119490.15",
+        "value_reservist_with_house": "159666",
+        "value_combat_no_house": "43908.15",
+        "total_development": "144135"
+      },
+      {
+        "lot_number": "451",
+        "lot_size": "507",
+        "full_value": "612400",
+        "value_reservist_no_house": "118484.6",
+        "value_reservist_with_house": "159224",
+        "value_combat_no_house": "43786.6",
+        "total_development": "144135"
+      },
+      {
+        "lot_number": "452",
+        "lot_size": "503",
+        "full_value": "616000",
+        "value_reservist_no_house": "120614",
+        "value_reservist_with_house": "160160",
+        "value_combat_no_house": "44044",
+        "total_development": "142064"
+      },
+      {
+        "lot_number": "453",
+        "lot_size": "502",
+        "full_value": "582600",
+        "value_reservist_no_house": "100857.9",
+        "value_reservist_with_house": "151476",
+        "value_combat_no_house": "41655.9",
+        "total_development": "141547"
+      },
+      {
+        "lot_number": "454",
+        "lot_size": "503",
+        "full_value": "586400",
+        "value_reservist_no_house": "103105.6",
+        "value_reservist_with_house": "152464",
+        "value_combat_no_house": "41927.6",
+        "total_development": "142064"
+      },
+      {
+        "lot_number": "455",
+        "lot_size": "512",
+        "full_value": "583000",
+        "value_reservist_no_house": "101094.5",
+        "value_reservist_with_house": "151580",
+        "value_combat_no_house": "41684.5",
+        "total_development": "146723"
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250403,
+    "michraz_name": "403/2025",
+    "kod_yeshuv": 1228,
+    "shchuna": "רקפת",
+    "plots": [
+      {
+        "lot_number": "148",
+        "lot_size": "519",
+        "full_value": "1,496,547",
+        "value_reservist_no_house": "1,170,300",
+        "value_reservist_with_house": "1,226,796",
+        "value_combat_no_house": "1,061,902",
+        "total_development": "315,839"
+      },
+      {
+        "lot_number": "147",
+        "lot_size": "519",
+        "full_value": "1,496,547",
+        "value_reservist_no_house": "1,170,300",
+        "value_reservist_with_house": "1,226,796",
+        "value_combat_no_house": "1,061,902",
+        "total_development": "315,839"
+      },
+      {
+        "lot_number": "142",
+        "lot_size": "520",
+        "full_value": "1,499,425",
+        "value_reservist_no_house": "1,172,569",
+        "value_reservist_with_house": "1,229,170",
+        "value_combat_no_house": "1,064,015",
+        "total_development": "315,839"
+      },
+      {
+        "lot_number": "141",
+        "lot_size": "520",
+        "full_value": "1,499,425",
+        "value_reservist_no_house": "1,172,569",
+        "value_reservist_with_house": "1,229,170",
+        "value_combat_no_house": "1,064,015",
+        "total_development": "315,839"
+      },
+      {
+        "lot_number": "136",
+        "lot_size": "520",
+        "full_value": "1,499,425",
+        "value_reservist_no_house": "1,172,569",
+        "value_reservist_with_house": "1,229,170",
+        "value_combat_no_house": "1,064,015",
+        "total_development": "315,839"
+      },
+      {
+        "lot_number": "135",
+        "lot_size": "520",
+        "full_value": "1,499,425",
+        "value_reservist_no_house": "1,172,569",
+        "value_reservist_with_house": "1,229,170",
+        "value_combat_no_house": "1,064,015",
+        "total_development": "315,839"
+      },
+      {
+        "lot_number": "134",
+        "lot_size": "585",
+        "full_value": "1,688,719",
+        "value_reservist_no_house": "1,320,607",
+        "value_reservist_with_house": "1,383,235",
+        "value_combat_no_house": "1,197,357",
+        "total_development": "315,839"
+      },
+      {
+        "lot_number": "229",
+        "lot_size": "450",
+        "full_value": "1,295,961",
+        "value_reservist_no_house": "1,013,831",
+        "value_reservist_with_house": "1,062,267",
+        "value_combat_no_house": "920,019",
+        "total_development": "315,839"
+      },
+      {
+        "lot_number": "231",
+        "lot_size": "485",
+        "full_value": "1,396,628",
+        "value_reservist_no_house": "1,092,727",
+        "value_reservist_with_house": "1,144,369",
+        "value_combat_no_house": "990,757",
+        "total_development": "315,839"
+      },
+      {
+        "lot_number": "232",
+        "lot_size": "474",
+        "full_value": "1,364,960",
+        "value_reservist_no_house": "1,067,526",
+        "value_reservist_with_house": "1,118,574",
+        "value_combat_no_house": "967,822",
+        "total_development": "315,839"
+      },
+      {
+        "lot_number": "245",
+        "lot_size": "442",
+        "full_value": "1,272,836",
+        "value_reservist_no_house": "995,689",
+        "value_reservist_with_house": "1,043,995",
+        "value_combat_no_house": "903,989",
+        "total_development": "315,839"
+      },
+      {
+        "lot_number": "426",
+        "lot_size": "477",
+        "full_value": "1,370,715",
+        "value_reservist_no_house": "1,072,077",
+        "value_reservist_with_house": "1,123,313",
+        "value_combat_no_house": "971,914",
+        "total_development": "315,839"
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250368,
+    "michraz_name": "368/2025",
+    "kod_yeshuv": 99,
+    "shchuna": "מגשימים מעוף",
+    "plots": [
+      {
+        "lot_number": "133",
+        "lot_size": "620",
+        "full_value": "389,000",
+        "value_reservist_no_house": "27,813.5",
+        "value_reservist_with_house": "40,456",
+        "value_combat_no_house": "27,813.5",
+        "total_development": "530,196"
+      },
+      {
+        "lot_number": "134",
+        "lot_size": "594",
+        "full_value": "340,700",
+        "value_reservist_no_house": "24,360.05",
+        "value_reservist_with_house": "35,432.8",
+        "value_combat_no_house": "24,360.05",
+        "total_development": "464,136"
+      },
+      {
+        "lot_number": "135",
+        "lot_size": "572",
+        "full_value": "313,400",
+        "value_reservist_no_house": "22,408.1",
+        "value_reservist_with_house": "32,593.6",
+        "value_combat_no_house": "22,408.1",
+        "total_development": "412,852"
+      },
+      {
+        "lot_number": "136",
+        "lot_size": "574",
+        "full_value": "305,600",
+        "value_reservist_no_house": "21,850.4",
+        "value_reservist_with_house": "31,782.4",
+        "value_combat_no_house": "21,850.4",
+        "total_development": "407,030"
+      },
+      {
+        "lot_number": "137",
+        "lot_size": "572",
+        "full_value": "354,500",
+        "value_reservist_no_house": "25,346.75",
+        "value_reservist_with_house": "36,868",
+        "value_combat_no_house": "25,346.75",
+        "total_development": "461,190"
+      },
+      {
+        "lot_number": "175",
+        "lot_size": "371",
+        "full_value": "303,600",
+        "value_reservist_no_house": "21,707.4",
+        "value_reservist_with_house": "31,574.4",
+        "value_combat_no_house": "21,707.4",
+        "total_development": "397,364"
+      },
+      {
+        "lot_number": "176",
+        "lot_size": "360",
+        "full_value": "308,900",
+        "value_reservist_no_house": "22,086.35",
+        "value_reservist_with_house": "32,125.6",
+        "value_combat_no_house": "22,086.35",
+        "total_development": "404,500"
+      },
+      {
+        "lot_number": "177",
+        "lot_size": "365",
+        "full_value": "313,000",
+        "value_reservist_no_house": "22,379.5",
+        "value_reservist_with_house": "32,552",
+        "value_combat_no_house": "22,379.5",
+        "total_development": "409,036"
+      },
+      {
+        "lot_number": "178",
+        "lot_size": "372",
+        "full_value": "310,300",
+        "value_reservist_no_house": "22,186.45",
+        "value_reservist_with_house": "32,271.2",
+        "value_combat_no_house": "22,186.45",
+        "total_development": "406,302"
+      },
+      {
+        "lot_number": "179",
+        "lot_size": "338",
+        "full_value": "294,600",
+        "value_reservist_no_house": "21,063.9",
+        "value_reservist_with_house": "30,638.4",
+        "value_combat_no_house": "21,063.9",
+        "total_development": "394,647"
+      },
+      {
+        "lot_number": "180",
+        "lot_size": "345",
+        "full_value": "291,700",
+        "value_reservist_no_house": "20,856.55",
+        "value_reservist_with_house": "30,336.8",
+        "value_combat_no_house": "20,856.55",
+        "total_development": "391,794"
+      },
+      {
+        "lot_number": "181",
+        "lot_size": "399",
+        "full_value": "335,700",
+        "value_reservist_no_house": "24,002.55",
+        "value_reservist_with_house": "34,912.8",
+        "value_combat_no_house": "24,002.55",
+        "total_development": "443,269"
+      },
+      {
+        "lot_number": "182",
+        "lot_size": "352",
+        "full_value": "311,100",
+        "value_reservist_no_house": "22,243.65",
+        "value_reservist_with_house": "32,354.4",
+        "value_combat_no_house": "22,243.65",
+        "total_development": "414,842"
+      },
+      {
+        "lot_number": "183",
+        "lot_size": "353",
+        "full_value": "313,000",
+        "value_reservist_no_house": "22,379.5",
+        "value_reservist_with_house": "32,552",
+        "value_combat_no_house": "22,379.5",
+        "total_development": "416,218"
+      },
+      {
+        "lot_number": "184",
+        "lot_size": "413",
+        "full_value": "320,800",
+        "value_reservist_no_house": "22,937.2",
+        "value_reservist_with_house": "33,363.2",
+        "value_combat_no_house": "22,937.2",
+        "total_development": "420,970"
+      },
+      {
+        "lot_number": "191",
+        "lot_size": "305",
+        "full_value": "330,700",
+        "value_reservist_no_house": "23,645.05",
+        "value_reservist_with_house": "34,392.8",
+        "value_combat_no_house": "23,645.05",
+        "total_development": "433,275"
+      },
+      {
+        "lot_number": "192",
+        "lot_size": "309",
+        "full_value": "336,300",
+        "value_reservist_no_house": "24,045.45",
+        "value_reservist_with_house": "34,975.2",
+        "value_combat_no_house": "24,045.45",
+        "total_development": "440,396"
+      },
+      {
+        "lot_number": "193",
+        "lot_size": "309",
+        "full_value": "357,500",
+        "value_reservist_no_house": "25,561.25",
+        "value_reservist_with_house": "37,180",
+        "value_combat_no_house": "25,561.25",
+        "total_development": "459,109"
+      },
+      {
+        "lot_number": "194",
+        "lot_size": "309",
+        "full_value": "357,500",
+        "value_reservist_no_house": "25,561.25",
+        "value_reservist_with_house": "37,180",
+        "value_combat_no_house": "25,561.25",
+        "total_development": "459,109"
+      },
+      {
+        "lot_number": "195",
+        "lot_size": "309",
+        "full_value": "356,600",
+        "value_reservist_no_house": "25,496.9",
+        "value_reservist_with_house": "37,086.4",
+        "value_combat_no_house": "25,496.9",
+        "total_development": "458,074"
+      },
+      {
+        "lot_number": "196",
+        "lot_size": "309",
+        "full_value": "360,000",
+        "value_reservist_no_house": "25,740",
+        "value_reservist_with_house": "37,440",
+        "value_combat_no_house": "25,740",
+        "total_development": "461,849"
+      },
+      {
+        "lot_number": "197",
+        "lot_size": "309",
+        "full_value": "360,000",
+        "value_reservist_no_house": "25,740",
+        "value_reservist_with_house": "37,440",
+        "value_combat_no_house": "25,740",
+        "total_development": "461,849"
+      },
+      {
+        "lot_number": "198",
+        "lot_size": "301",
+        "full_value": "366,400",
+        "value_reservist_no_house": "26,197.6",
+        "value_reservist_with_house": "38,105.6",
+        "value_combat_no_house": "26,197.6",
+        "total_development": "471,061"
+      },
+      {
+        "lot_number": "199",
+        "lot_size": "301",
+        "full_value": "374,900",
+        "value_reservist_no_house": "26,805.35",
+        "value_reservist_with_house": "38,989.6",
+        "value_combat_no_house": "26,805.35",
+        "total_development": "478,895"
+      },
+      {
+        "lot_number": "200",
+        "lot_size": "309",
+        "full_value": "355,800",
+        "value_reservist_no_house": "25,439.7",
+        "value_reservist_with_house": "37,003.2",
+        "value_combat_no_house": "25,439.7",
+        "total_development": "453,770"
+      },
+      {
+        "lot_number": "201",
+        "lot_size": "309",
+        "full_value": "357,500",
+        "value_reservist_no_house": "25,561.25",
+        "value_reservist_with_house": "37,180",
+        "value_combat_no_house": "25,561.25",
+        "total_development": "455,296"
+      },
+      {
+        "lot_number": "202",
+        "lot_size": "309",
+        "full_value": "353,200",
+        "value_reservist_no_house": "25,253.8",
+        "value_reservist_with_house": "36,732.8",
+        "value_combat_no_house": "25,253.8",
+        "total_development": "450,880"
+      },
+      {
+        "lot_number": "203",
+        "lot_size": "309",
+        "full_value": "356,600",
+        "value_reservist_no_house": "25,496.9",
+        "value_reservist_with_house": "37,086.4",
+        "value_combat_no_house": "25,496.9",
+        "total_development": "454,499"
+      },
+      {
+        "lot_number": "204",
+        "lot_size": "309",
+        "full_value": "355,800",
+        "value_reservist_no_house": "25,439.7",
+        "value_reservist_with_house": "37,003.2",
+        "value_combat_no_house": "25,439.7",
+        "total_development": "453,770"
+      },
+      {
+        "lot_number": "205",
+        "lot_size": "309",
+        "full_value": "331,200",
+        "value_reservist_no_house": "23,680.8",
+        "value_reservist_with_house": "34,444.8",
+        "value_combat_no_house": "23,680.8",
+        "total_development": "420,085"
+      },
+      {
+        "lot_number": "206",
+        "lot_size": "305",
+        "full_value": "330,900",
+        "value_reservist_no_house": "23,659.35",
+        "value_reservist_with_house": "34,413.6",
+        "value_combat_no_house": "23,659.35",
+        "total_development": "419,709"
+      },
+      {
+        "lot_number": "212",
+        "lot_size": "497",
+        "full_value": "345,300",
+        "value_reservist_no_house": "24,688.95",
+        "value_reservist_with_house": "35,911.2",
+        "value_combat_no_house": "24,688.95",
+        "total_development": "436,568"
+      },
+      {
+        "lot_number": "213",
+        "lot_size": "378",
+        "full_value": "315,000",
+        "value_reservist_no_house": "22,522.5",
+        "value_reservist_with_house": "32,760",
+        "value_combat_no_house": "22,522.5",
+        "total_development": "403,344"
+      },
+      {
+        "lot_number": "214",
+        "lot_size": "386",
+        "full_value": "318,300",
+        "value_reservist_no_house": "22,758.45",
+        "value_reservist_with_house": "33,103.2",
+        "value_combat_no_house": "22,758.45",
+        "total_development": "406,773"
+      },
+      {
+        "lot_number": "215",
+        "lot_size": "391",
+        "full_value": "293,100",
+        "value_reservist_no_house": "20,956.65",
+        "value_reservist_with_house": "30,482.4",
+        "value_combat_no_house": "20,956.65",
+        "total_development": "382,070"
+      },
+      {
+        "lot_number": "216",
+        "lot_size": "391",
+        "full_value": "318,400",
+        "value_reservist_no_house": "22,765.6",
+        "value_reservist_with_house": "33,113.6",
+        "value_combat_no_house": "22,765.6",
+        "total_development": "406,824"
+      },
+      {
+        "lot_number": "217",
+        "lot_size": "398",
+        "full_value": "310,800",
+        "value_reservist_no_house": "22,222.2",
+        "value_reservist_with_house": "32,323.2",
+        "value_combat_no_house": "22,222.2",
+        "total_development": "399,024"
+      },
+      {
+        "lot_number": "218",
+        "lot_size": "395",
+        "full_value": "311,000",
+        "value_reservist_no_house": "22,236.5",
+        "value_reservist_with_house": "32,344",
+        "value_combat_no_house": "22,236.5",
+        "total_development": "399,265"
+      },
+      {
+        "lot_number": "219",
+        "lot_size": "369",
+        "full_value": "276,300",
+        "value_reservist_no_house": "19,755.45",
+        "value_reservist_with_house": "28,735.2",
+        "value_combat_no_house": "19,755.45",
+        "total_development": "368,092"
+      },
+      {
+        "lot_number": "220",
+        "lot_size": "655",
+        "full_value": "367,100",
+        "value_reservist_no_house": "26,247.65",
+        "value_reservist_with_house": "38,178.4",
+        "value_combat_no_house": "26,247.65",
+        "total_development": "474,894"
+      },
+      {
+        "lot_number": "221",
+        "lot_size": "399",
+        "full_value": "343,800",
+        "value_reservist_no_house": "24,581.7",
+        "value_reservist_with_house": "35,755.2",
+        "value_combat_no_house": "24,581.7",
+        "total_development": "442,762"
+      },
+      {
+        "lot_number": "222",
+        "lot_size": "472",
+        "full_value": "380,800",
+        "value_reservist_no_house": "27,227.2",
+        "value_reservist_with_house": "39,603.2",
+        "value_combat_no_house": "27,227.2",
+        "total_development": "491,192"
+      },
+      {
+        "lot_number": "223",
+        "lot_size": "464",
+        "full_value": "379,200",
+        "value_reservist_no_house": "27,112.8",
+        "value_reservist_with_house": "39,436.8",
+        "value_combat_no_house": "27,112.8",
+        "total_development": "488,402"
+      },
+      {
+        "lot_number": "224",
+        "lot_size": "464",
+        "full_value": "374,900",
+        "value_reservist_no_house": "26,805.35",
+        "value_reservist_with_house": "38,989.6",
+        "value_combat_no_house": "26,805.35",
+        "total_development": "483,991"
+      },
+      {
+        "lot_number": "225",
+        "lot_size": "472",
+        "full_value": "380,800",
+        "value_reservist_no_house": "27,227.2",
+        "value_reservist_with_house": "39,603.2",
+        "value_combat_no_house": "27,227.2",
+        "total_development": "491,192"
+      },
+      {
+        "lot_number": "226",
+        "lot_size": "399",
+        "full_value": "343,800",
+        "value_reservist_no_house": "24,581.7",
+        "value_reservist_with_house": "35,755.2",
+        "value_combat_no_house": "24,581.7",
+        "total_development": "442,762"
+      },
+      {
+        "lot_number": "227",
+        "lot_size": "399",
+        "full_value": "340,200",
+        "value_reservist_no_house": "24,324.3",
+        "value_reservist_with_house": "35,380.8",
+        "value_combat_no_house": "24,324.3",
+        "total_development": "439,726"
+      },
+      {
+        "lot_number": "228",
+        "lot_size": "472",
+        "full_value": "381,500",
+        "value_reservist_no_house": "27,277.25",
+        "value_reservist_with_house": "39,676",
+        "value_combat_no_house": "27,277.25",
+        "total_development": "492,086"
+      },
+      {
+        "lot_number": "229",
+        "lot_size": "648",
+        "full_value": "370,600",
+        "value_reservist_no_house": "26,497.9",
+        "value_reservist_with_house": "38,542.4",
+        "value_combat_no_house": "26,497.9",
+        "total_development": "480,943"
+      },
+      {
+        "lot_number": "248",
+        "lot_size": "309",
+        "full_value": "348,100",
+        "value_reservist_no_house": "24,889.15",
+        "value_reservist_with_house": "36,202.4",
+        "value_combat_no_house": "24,889.15",
+        "total_development": "449,155"
+      },
+      {
+        "lot_number": "250",
+        "lot_size": "309",
+        "full_value": "334,600",
+        "value_reservist_no_house": "23,923.9",
+        "value_reservist_with_house": "34,798.4",
+        "value_combat_no_house": "23,923.9",
+        "total_development": "431,230"
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250202,
+    "michraz_name": "202/2025",
+    "kod_yeshuv": 1031,
+    "shchuna": "כלניות",
+    "plots": [
+      {
+        "lot_number": "42",
+        "lot_size": "468",
+        "full_value": "389300",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "38930"
+      },
+      {
+        "lot_number": "43",
+        "lot_size": "397",
+        "full_value": "342300",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "34230"
+      },
+      {
+        "lot_number": "44",
+        "lot_size": "395",
+        "full_value": "417400",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "41740"
+      },
+      {
+        "lot_number": "45",
+        "lot_size": "416",
+        "full_value": "463700",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "46370"
+      },
+      {
+        "lot_number": "46",
+        "lot_size": "405",
+        "full_value": "396600",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "39660"
+      },
+      {
+        "lot_number": "47",
+        "lot_size": "416",
+        "full_value": "419000",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "41900"
+      },
+      {
+        "lot_number": "48",
+        "lot_size": "417",
+        "full_value": "432400",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "43240"
+      },
+      {
+        "lot_number": "49",
+        "lot_size": "430",
+        "full_value": "415200",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "41520"
+      },
+      {
+        "lot_number": "50",
+        "lot_size": "428",
+        "full_value": "447600",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "44760"
+      },
+      {
+        "lot_number": "51",
+        "lot_size": "427",
+        "full_value": "389300",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "38930"
+      },
+      {
+        "lot_number": "52",
+        "lot_size": "423",
+        "full_value": "422400",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "42240"
+      },
+      {
+        "lot_number": "53",
+        "lot_size": "411",
+        "full_value": "427500",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "42750"
+      },
+      {
+        "lot_number": "54",
+        "lot_size": "411",
+        "full_value": "449500",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "44950"
+      },
+      {
+        "lot_number": "61",
+        "lot_size": "395",
+        "full_value": "376700",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "37670"
+      },
+      {
+        "lot_number": "62",
+        "lot_size": "395",
+        "full_value": "367400",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "36740"
+      },
+      {
+        "lot_number": "64",
+        "lot_size": "394",
+        "full_value": "376000",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "37600"
+      },
+      {
+        "lot_number": "66",
+        "lot_size": "395",
+        "full_value": "386800",
+        "value_reservist_no_house": "-",
+        "value_reservist_with_house": "-",
+        "value_combat_no_house": "-",
+        "total_development": "38680"
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250180,
+    "michraz_name": "180/2025",
+    "kod_yeshuv": 2051,
+    "shchuna": "רווחה",
+    "plots": [
+      {
+        "lot_number": "15",
+        "lot_size": "",
+        "full_value": "1,627,323",
+        "value_reservist_no_house": "1,480,864",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "1,332,778",
+        "total_development": "234,759"
+      },
+      {
+        "lot_number": "28",
+        "lot_size": "",
+        "full_value": "1,482,151",
+        "value_reservist_no_house": "1,348,757",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "1,213,882",
+        "total_development": "237,062"
+      },
+      {
+        "lot_number": "32",
+        "lot_size": "",
+        "full_value": "1,521,391",
+        "value_reservist_no_house": "1,384,466",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "1,246,019",
+        "total_development": "234,759"
+      },
+      {
+        "lot_number": "34",
+        "lot_size": "",
+        "full_value": "1,521,391",
+        "value_reservist_no_house": "1,384,466",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "1,246,019",
+        "total_development": "234,759"
+      },
+      {
+        "lot_number": "35",
+        "lot_size": "",
+        "full_value": "1,521,391",
+        "value_reservist_no_house": "1,384,466",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "1,246,019",
+        "total_development": "234,759"
+      },
+      {
+        "lot_number": "36",
+        "lot_size": "",
+        "full_value": "1,521,391",
+        "value_reservist_no_house": "1,384,466",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "1,246,019",
+        "total_development": "234,759"
+      },
+      {
+        "lot_number": "37",
+        "lot_size": "",
+        "full_value": "1,521,391",
+        "value_reservist_no_house": "1,384,466",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "1,246,019",
+        "total_development": "234,759"
+      },
+      {
+        "lot_number": "38",
+        "lot_size": "",
+        "full_value": "1,546,758",
+        "value_reservist_no_house": "1,407,550",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "1,266,795",
+        "total_development": "239,826"
+      },
+      {
+        "lot_number": "39",
+        "lot_size": "",
+        "full_value": "1,521,391",
+        "value_reservist_no_house": "1,384,466",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "1,246,019",
+        "total_development": "234,759"
+      },
+      {
+        "lot_number": "42",
+        "lot_size": "",
+        "full_value": "1,629,181",
+        "value_reservist_no_house": "1,482,555",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "1,334,299",
+        "total_development": "254,567"
+      },
+      {
+        "lot_number": "44",
+        "lot_size": "",
+        "full_value": "1,726,486",
+        "value_reservist_no_house": "1,571,102",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "1,421,102",
+        "total_development": "281,746"
+      },
+      {
+        "lot_number": "57",
+        "lot_size": "",
+        "full_value": "1,904,292",
+        "value_reservist_no_house": "1,732,906",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "1,582,906",
+        "total_development": "302,936"
+      },
+      {
+        "lot_number": "64",
+        "lot_size": "",
+        "full_value": "2,080,242",
+        "value_reservist_no_house": "1,893,020",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "1,743,020",
+        "total_development": "345,315"
+      },
+      {
+        "lot_number": "72",
+        "lot_size": "",
+        "full_value": "1,678,380",
+        "value_reservist_no_house": "1,527,326",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "1,377,326",
+        "total_development": "243,512"
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250150,
+    "michraz_name": "150/2025",
+    "kod_yeshuv": 246,
+    "shchuna": "מעלות הנחל",
+    "plots": [
+      {
+        "lot_number": "102",
+        "lot_size": "596,782",
+        "full_value": "1,764,762.60",
+        "value_reservist_no_house": "594,762.48",
+        "value_reservist_with_house": "363,996.00",
+        "value_combat_no_house": "247,612.80",
+        "total_development": "564,782"
+      },
+      {
+        "lot_number": "108",
+        "lot_size": "546,951",
+        "full_value": "1,595,296.88",
+        "value_reservist_no_house": "546,207.77",
+        "value_reservist_with_house": "334,064.00",
+        "value_combat_no_house": "224,781.60",
+        "total_development": "546,951"
+      },
+      {
+        "lot_number": "113",
+        "lot_size": "546,208",
+        "full_value": "1,593,296.88",
+        "value_reservist_no_house": "541,750.16",
+        "value_reservist_with_house": "333,520.00",
+        "value_combat_no_house": "224,478.40",
+        "total_development": "546,208"
+      },
+      {
+        "lot_number": "288",
+        "lot_size": "541,750",
+        "full_value": "1,580,000.00",
+        "value_reservist_no_house": "499,996.56",
+        "value_reservist_with_house": "328,000.00",
+        "value_combat_no_house": "195,916.00",
+        "total_development": "541,750"
+      },
+      {
+        "lot_number": "315",
+        "lot_size": "541,750",
+        "full_value": "1,580,000.00",
+        "value_reservist_no_house": "541,750.16",
+        "value_reservist_with_house": "328,000.00",
+        "value_combat_no_house": "195,916.00",
+        "total_development": "541,750"
+      },
+      {
+        "lot_number": "423",
+        "lot_size": "699,566",
+        "full_value": "2,044,056.96",
+        "value_reservist_no_house": "653,903.38",
+        "value_reservist_with_house": "461,612.00",
+        "value_combat_no_house": "237,954.00",
+        "total_development": "699,566"
+      },
+      {
+        "lot_number": "427",
+        "lot_size": "663,904",
+        "full_value": "1,939,126.38",
+        "value_reservist_no_house": "694,065.36",
+        "value_reservist_with_house": "435,450.00",
+        "value_combat_no_house": "228,454.00",
+        "total_development": "663,904"
+      },
+      {
+        "lot_number": "430",
+        "lot_size": "636,414",
+        "full_value": "1,858,012.18",
+        "value_reservist_no_house": "678,792.74",
+        "value_reservist_with_house": "415,282.00",
+        "value_combat_no_house": "221,132.00",
+        "total_development": "636,414"
+      },
+      {
+        "lot_number": "431",
+        "lot_size": "663,904",
+        "full_value": "1,939,126.38",
+        "value_reservist_no_house": "694,065.36",
+        "value_reservist_with_house": "435,450.00",
+        "value_combat_no_house": "228,454.00",
+        "total_development": "663,904"
+      },
+      {
+        "lot_number": "444",
+        "lot_size": "694,365",
+        "full_value": "2,025,296.88",
+        "value_reservist_no_house": "699,803.28",
+        "value_reservist_with_house": "457,797.00",
+        "value_combat_no_house": "236,568.00",
+        "total_development": "694,365"
+      },
+      {
+        "lot_number": "450",
+        "lot_size": "678,763",
+        "full_value": "1,980,000.00",
+        "value_reservist_no_house": "653,903.38",
+        "value_reservist_with_house": "446,351.00",
+        "value_combat_no_house": "232,412.00",
+        "total_development": "678,763"
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250124,
+    "michraz_name": "124/2025",
+    "kod_yeshuv": 1031,
+    "shchuna": "בוסתנים",
+    "plots": [
+      {
+        "lot_number": "1",
+        "lot_size": "",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "530,717"
+      },
+      {
+        "lot_number": "2",
+        "lot_size": "",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "510,318"
+      },
+      {
+        "lot_number": "3",
+        "lot_size": "",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "530,339"
+      },
+      {
+        "lot_number": "4",
+        "lot_size": "",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "717,797"
+      },
+      {
+        "lot_number": "5",
+        "lot_size": "",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "718,800"
+      },
+      {
+        "lot_number": "6",
+        "lot_size": "",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "718,801"
+      },
+      {
+        "lot_number": "7",
+        "lot_size": "",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "717,797"
+      },
+      {
+        "lot_number": "8",
+        "lot_size": "",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "718,800"
+      },
+      {
+        "lot_number": "9",
+        "lot_size": "",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "718,801"
+      },
+      {
+        "lot_number": "22",
+        "lot_size": "517",
+        "full_value": "709,300",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "23",
+        "lot_size": "500",
+        "full_value": "837,600",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "24",
+        "lot_size": "524",
+        "full_value": "855,100",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "37",
+        "lot_size": "500",
+        "full_value": "799,100",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "38",
+        "lot_size": "783",
+        "full_value": "991,800",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "104",
+        "lot_size": "500",
+        "full_value": "794,900",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "106",
+        "lot_size": "447",
+        "full_value": "734,700",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "107",
+        "lot_size": "500",
+        "full_value": "834,900",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "108",
+        "lot_size": "549",
+        "full_value": "856,800",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250122,
+    "michraz_name": "122/2025",
+    "kod_yeshuv": 1031,
+    "shchuna": "צמרות",
+    "plots": [
+      {
+        "lot_number": "23",
+        "lot_size": "456",
+        "full_value": "489700",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "633330"
+      },
+      {
+        "lot_number": "24",
+        "lot_size": "472",
+        "full_value": "549300",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "686400"
+      },
+      {
+        "lot_number": "25",
+        "lot_size": "451",
+        "full_value": "538400",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "661661"
+      },
+      {
+        "lot_number": "26",
+        "lot_size": "458",
+        "full_value": "497300",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "610042"
+      },
+      {
+        "lot_number": "27",
+        "lot_size": "607",
+        "full_value": "531000",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "640478"
+      },
+      {
+        "lot_number": "28",
+        "lot_size": "602",
+        "full_value": "568200",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "686246"
+      },
+      {
+        "lot_number": "29",
+        "lot_size": "457",
+        "full_value": "563600",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "684066"
+      },
+      {
+        "lot_number": "30",
+        "lot_size": "451",
+        "full_value": "581400",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "700094"
+      },
+      {
+        "lot_number": "31",
+        "lot_size": "471",
+        "full_value": "547800",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "678657"
+      },
+      {
+        "lot_number": "32",
+        "lot_size": "475",
+        "full_value": "542900",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "650564"
+      },
+      {
+        "lot_number": "33",
+        "lot_size": "474",
+        "full_value": "556100",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "665092"
+      },
+      {
+        "lot_number": "34",
+        "lot_size": "435",
+        "full_value": "546900",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "658212"
+      },
+      {
+        "lot_number": "35",
+        "lot_size": "455",
+        "full_value": "546700",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "658012"
+      },
+      {
+        "lot_number": "36",
+        "lot_size": "503",
+        "full_value": "544800",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "655172"
+      },
+      {
+        "lot_number": "37",
+        "lot_size": "523",
+        "full_value": "554500",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "662206"
+      },
+      {
+        "lot_number": "38",
+        "lot_size": "484",
+        "full_value": "515700",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "620085"
+      },
+      {
+        "lot_number": "39",
+        "lot_size": "376",
+        "full_value": "507200",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "612194"
+      },
+      {
+        "lot_number": "40",
+        "lot_size": "482",
+        "full_value": "540300",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "650238"
+      },
+      {
+        "lot_number": "41",
+        "lot_size": "563",
+        "full_value": "509900",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "613430"
+      },
+      {
+        "lot_number": "42",
+        "lot_size": "479",
+        "full_value": "513400",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "617543"
+      },
+      {
+        "lot_number": "43",
+        "lot_size": "439",
+        "full_value": "573900",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "689166"
+      },
+      {
+        "lot_number": "44",
+        "lot_size": "446",
+        "full_value": "540900",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "650986"
+      },
+      {
+        "lot_number": "45",
+        "lot_size": "419",
+        "full_value": "605200",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "729564"
+      },
+      {
+        "lot_number": "46",
+        "lot_size": "440",
+        "full_value": "610000",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "734570"
+      },
+      {
+        "lot_number": "47",
+        "lot_size": "519",
+        "full_value": "577000",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "693310"
+      },
+      {
+        "lot_number": "48",
+        "lot_size": "467",
+        "full_value": "558500",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "670477"
+      },
+      {
+        "lot_number": "49",
+        "lot_size": "444",
+        "full_value": "579600",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "695684"
+      },
+      {
+        "lot_number": "50",
+        "lot_size": "450",
+        "full_value": "580800",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "698010"
+      },
+      {
+        "lot_number": "51",
+        "lot_size": "441",
+        "full_value": "552100",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "663940"
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250121,
+    "michraz_name": "121/2025",
+    "kod_yeshuv": 9000,
+    "shchuna": "נאות לון",
+    "plots": [
+      {
+        "lot_number": "205",
+        "lot_size": "270",
+        "full_value": "483,500",
+        "value_reservist_no_house": "119,908",
+        "value_reservist_with_house": "222,410",
+        "value_combat_no_house": "119,908",
+        "total_development": "981,506"
+      },
+      {
+        "lot_number": "207",
+        "lot_size": "270",
+        "full_value": "483,500",
+        "value_reservist_no_house": "119,908",
+        "value_reservist_with_house": "222,410",
+        "value_combat_no_house": "119,908",
+        "total_development": "981,506"
+      },
+      {
+        "lot_number": "214",
+        "lot_size": "295",
+        "full_value": "462,900",
+        "value_reservist_no_house": "114,799.2",
+        "value_reservist_with_house": "212,934",
+        "value_combat_no_house": "114,799.2",
+        "total_development": "979,756"
+      },
+      {
+        "lot_number": "215",
+        "lot_size": "269",
+        "full_value": "484,100",
+        "value_reservist_no_house": "120,056.8",
+        "value_reservist_with_house": "222,686",
+        "value_combat_no_house": "120,056.8",
+        "total_development": "979,756"
+      },
+      {
+        "lot_number": "216",
+        "lot_size": "269",
+        "full_value": "484,100",
+        "value_reservist_no_house": "120,056.8",
+        "value_reservist_with_house": "222,686",
+        "value_combat_no_house": "120,056.8",
+        "total_development": "979,756"
+      },
+      {
+        "lot_number": "217",
+        "lot_size": "269",
+        "full_value": "484,100",
+        "value_reservist_no_house": "120,056.8",
+        "value_reservist_with_house": "222,686",
+        "value_combat_no_house": "120,056.8",
+        "total_development": "1,028,765"
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250119,
+    "michraz_name": "119/2025",
+    "kod_yeshuv": 9000,
+    "shchuna": "רקפות",
+    "plots": [
+      {
+        "lot_number": "1",
+        "lot_size": "174.794",
+        "full_value": "704.800",
+        "value_reservist_no_house": "441.388",
+        "value_reservist_with_house": "324.908",
+        "value_combat_no_house": "533",
+        "total_development": "996073"
+      },
+      {
+        "lot_number": "2",
+        "lot_size": "174.691",
+        "full_value": "704.800",
+        "value_reservist_no_house": "441.004",
+        "value_reservist_with_house": "324.908",
+        "value_combat_no_house": "533",
+        "total_development": "993442"
+      },
+      {
+        "lot_number": "3",
+        "lot_size": "174.021",
+        "full_value": "701.700",
+        "value_reservist_no_house": "436.547",
+        "value_reservist_with_house": "322.782",
+        "value_combat_no_house": "545",
+        "total_development": "988949"
+      },
+      {
+        "lot_number": "4",
+        "lot_size": "173.823",
+        "full_value": "700.900",
+        "value_reservist_no_house": "437.619",
+        "value_reservist_with_house": "322.414",
+        "value_combat_no_house": "545",
+        "total_development": "985810"
+      },
+      {
+        "lot_number": "5",
+        "lot_size": "174.368",
+        "full_value": "703.100",
+        "value_reservist_no_house": "439.821",
+        "value_reservist_with_house": "323.426",
+        "value_combat_no_house": "535",
+        "total_development": "987188"
+      },
+      {
+        "lot_number": "6",
+        "lot_size": "174.344",
+        "full_value": "703.100",
+        "value_reservist_no_house": "439.710",
+        "value_reservist_with_house": "323.380",
+        "value_combat_no_house": "535",
+        "total_development": "987188"
+      },
+      {
+        "lot_number": "7",
+        "lot_size": "174.388",
+        "full_value": "703.700",
+        "value_reservist_no_house": "440.357",
+        "value_reservist_with_house": "323.702",
+        "value_combat_no_house": "536",
+        "total_development": "988207"
+      },
+      {
+        "lot_number": "8",
+        "lot_size": "174.511",
+        "full_value": "703.700",
+        "value_reservist_no_house": "441.763",
+        "value_reservist_with_house": "323.702",
+        "value_combat_no_house": "536",
+        "total_development": "988207"
+      },
+      {
+        "lot_number": "9",
+        "lot_size": "169.794",
+        "full_value": "672.300",
+        "value_reservist_no_house": "411.783",
+        "value_reservist_with_house": "300.238",
+        "value_combat_no_house": "660",
+        "total_development": "893012"
+      },
+      {
+        "lot_number": "10",
+        "lot_size": "172.236",
+        "full_value": "763.300",
+        "value_reservist_no_house": "483.199",
+        "value_reservist_with_house": "390.470",
+        "value_combat_no_house": "810",
+        "total_development": "797199"
+      },
+      {
+        "lot_number": "11",
+        "lot_size": "172.236",
+        "full_value": "695.400",
+        "value_reservist_no_house": "431.599",
+        "value_reservist_with_house": "319.470",
+        "value_combat_no_house": "483",
+        "total_development": "797199"
+      },
+      {
+        "lot_number": "12",
+        "lot_size": "169.214",
+        "full_value": "678.800",
+        "value_reservist_no_house": "417.526",
+        "value_reservist_with_house": "312.196",
+        "value_combat_no_house": "636",
+        "total_development": "778054"
+      },
+      {
+        "lot_number": "13",
+        "lot_size": "169.232",
+        "full_value": "678.800",
+        "value_reservist_no_house": "420.594",
+        "value_reservist_with_house": "312.196",
+        "value_combat_no_house": "656",
+        "total_development": "780248"
+      },
+      {
+        "lot_number": "14",
+        "lot_size": "169.235",
+        "full_value": "682.700",
+        "value_reservist_no_house": "421.257",
+        "value_reservist_with_house": "314.042",
+        "value_combat_no_house": "630",
+        "total_development": "780972"
+      },
+      {
+        "lot_number": "15",
+        "lot_size": "169.309",
+        "full_value": "682.700",
+        "value_reservist_no_house": "421.957",
+        "value_reservist_with_house": "314.042",
+        "value_combat_no_house": "630",
+        "total_development": "780972"
+      },
+      {
+        "lot_number": "16",
+        "lot_size": "169.309",
+        "full_value": "682.700",
+        "value_reservist_no_house": "421.257",
+        "value_reservist_with_house": "314.042",
+        "value_combat_no_house": "630",
+        "total_development": "780972"
+      },
+      {
+        "lot_number": "17",
+        "lot_size": "169.334",
+        "full_value": "683.300",
+        "value_reservist_no_house": "421.830",
+        "value_reservist_with_house": "314.088",
+        "value_combat_no_house": "630",
+        "total_development": "781777"
+      },
+      {
+        "lot_number": "18",
+        "lot_size": "169.458",
+        "full_value": "683.300",
+        "value_reservist_no_house": "421.830",
+        "value_reservist_with_house": "314.088",
+        "value_combat_no_house": "629",
+        "total_development": "781777"
+      },
+      {
+        "lot_number": "19",
+        "lot_size": "169.433",
+        "full_value": "682.500",
+        "value_reservist_no_house": "421.712",
+        "value_reservist_with_house": "314.272",
+        "value_combat_no_house": "628",
+        "total_development": "782592"
+      },
+      {
+        "lot_number": "20",
+        "lot_size": "169.433",
+        "full_value": "682.500",
+        "value_reservist_no_house": "421.712",
+        "value_reservist_with_house": "314.560",
+        "value_combat_no_house": "595",
+        "total_development": "782592"
+      },
+      {
+        "lot_number": "21",
+        "lot_size": "167.871",
+        "full_value": "675.900",
+        "value_reservist_no_house": "414.979",
+        "value_reservist_with_house": "311.374",
+        "value_combat_no_house": "659",
+        "total_development": "776394"
+      },
+      {
+        "lot_number": "22",
+        "lot_size": "168.508",
+        "full_value": "683.500",
+        "value_reservist_no_house": "421.665",
+        "value_reservist_with_house": "314.432",
+        "value_combat_no_house": "627",
+        "total_development": "783500"
+      },
+      {
+        "lot_number": "23",
+        "lot_size": "168.552",
+        "full_value": "683.700",
+        "value_reservist_no_house": "422.157",
+        "value_reservist_with_house": "314.432",
+        "value_combat_no_house": "626",
+        "total_development": "784072"
+      },
+      {
+        "lot_number": "24",
+        "lot_size": "168.681",
+        "full_value": "684.200",
+        "value_reservist_no_house": "422.632",
+        "value_reservist_with_house": "314.732",
+        "value_combat_no_house": "627",
+        "total_development": "784695"
+      },
+      {
+        "lot_number": "25",
+        "lot_size": "165.299",
+        "full_value": "683.350",
+        "value_reservist_no_house": "421.685",
+        "value_reservist_with_house": "314.410",
+        "value_combat_no_house": "626",
+        "total_development": "783393"
+      },
+      {
+        "lot_number": "26",
+        "lot_size": "166.508",
+        "full_value": "670.400",
+        "value_reservist_no_house": "410.164",
+        "value_reservist_with_house": "308.390",
+        "value_combat_no_house": "724",
+        "total_development": "772065"
+      },
+      {
+        "lot_number": "27",
+        "lot_size": "165.900",
+        "full_value": "666.300",
+        "value_reservist_no_house": "411.973",
+        "value_reservist_with_house": "306.030",
+        "value_combat_no_house": "630",
+        "total_development": "769602"
+      },
+      {
+        "lot_number": "28",
+        "lot_size": "161.760",
+        "full_value": "672.500",
+        "value_reservist_no_house": "391.146",
+        "value_reservist_with_house": "308.930",
+        "value_combat_no_house": "811",
+        "total_development": "775560"
+      },
+      {
+        "lot_number": "29",
+        "lot_size": "169.447",
+        "full_value": "696.600",
+        "value_reservist_no_house": "433.506",
+        "value_reservist_with_house": "320.352",
+        "value_combat_no_house": "556",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "30",
+        "lot_size": "172.856",
+        "full_value": "696.600",
+        "value_reservist_no_house": "433.814",
+        "value_reservist_with_house": "320.352",
+        "value_combat_no_house": "571",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "31",
+        "lot_size": "172.657",
+        "full_value": "696.400",
+        "value_reservist_no_house": "433.542",
+        "value_reservist_with_house": "319.884",
+        "value_combat_no_house": "571",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "32",
+        "lot_size": "172.459",
+        "full_value": "696.400",
+        "value_reservist_no_house": "433.284",
+        "value_reservist_with_house": "319.884",
+        "value_combat_no_house": "571",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "33",
+        "lot_size": "172.459",
+        "full_value": "696.400",
+        "value_reservist_no_house": "433.506",
+        "value_reservist_with_house": "319.884",
+        "value_combat_no_house": "571",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "34",
+        "lot_size": "171.640",
+        "full_value": "694.400",
+        "value_reservist_no_house": "431.964",
+        "value_reservist_with_house": "319.044",
+        "value_combat_no_house": "581",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "35",
+        "lot_size": "171.211",
+        "full_value": "694.000",
+        "value_reservist_no_house": "431.544",
+        "value_reservist_with_house": "318.624",
+        "value_combat_no_house": "581",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "36",
+        "lot_size": "172.824",
+        "full_value": "696.300",
+        "value_reservist_no_house": "433.633",
+        "value_reservist_with_house": "320.298",
+        "value_combat_no_house": "570",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "37",
+        "lot_size": "169.111",
+        "full_value": "680.600",
+        "value_reservist_no_house": "420.529",
+        "value_reservist_with_house": "313.674",
+        "value_combat_no_house": "570",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "38",
+        "lot_size": "172.495",
+        "full_value": "695.200",
+        "value_reservist_no_house": "433.632",
+        "value_reservist_with_house": "319.792",
+        "value_combat_no_house": "579",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "39",
+        "lot_size": "172.495",
+        "full_value": "695.200",
+        "value_reservist_no_house": "433.632",
+        "value_reservist_with_house": "319.792",
+        "value_combat_no_house": "579",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "40",
+        "lot_size": "172.507",
+        "full_value": "671.400",
+        "value_reservist_no_house": "413.974",
+        "value_reservist_with_house": "308.844",
+        "value_combat_no_house": "725",
+        "total_development": "775560"
+      },
+      {
+        "lot_number": "41",
+        "lot_size": "170.748",
+        "full_value": "888.600",
+        "value_reservist_no_house": "555.335",
+        "value_reservist_with_house": "426.535",
+        "value_combat_no_house": "478",
+        "total_development": "853701"
+      },
+      {
+        "lot_number": "42",
+        "lot_size": "171.517",
+        "full_value": "703.700",
+        "value_reservist_no_house": "440.397",
+        "value_reservist_with_house": "323.702",
+        "value_combat_no_house": "761",
+        "total_development": "785255"
+      },
+      {
+        "lot_number": "43",
+        "lot_size": "171.518",
+        "full_value": "690.600",
+        "value_reservist_no_house": "415.522",
+        "value_reservist_with_house": "317.798",
+        "value_combat_no_house": "761",
+        "total_development": "786430"
+      },
+      {
+        "lot_number": "44",
+        "lot_size": "167.201",
+        "full_value": "674.200",
+        "value_reservist_no_house": "408.972",
+        "value_reservist_with_house": "310.132",
+        "value_combat_no_house": "665",
+        "total_development": "773007"
+      },
+      {
+        "lot_number": "45",
+        "lot_size": "166.739",
+        "full_value": "680.400",
+        "value_reservist_no_house": "419.164",
+        "value_reservist_with_house": "312.884",
+        "value_combat_no_house": "637",
+        "total_development": "779890"
+      },
+      {
+        "lot_number": "46",
+        "lot_size": "172.269",
+        "full_value": "694.600",
+        "value_reservist_no_house": "432.086",
+        "value_reservist_with_house": "319.536",
+        "value_combat_no_house": "574",
+        "total_development": "782211"
+      },
+      {
+        "lot_number": "47",
+        "lot_size": "171.575",
+        "full_value": "699.900",
+        "value_reservist_no_house": "438.909",
+        "value_reservist_with_house": "321.564",
+        "value_combat_no_house": "545",
+        "total_development": "787670"
+      },
+      {
+        "lot_number": "48",
+        "lot_size": "173.739",
+        "full_value": "700.800",
+        "value_reservist_no_house": "437.778",
+        "value_reservist_with_house": "322.994",
+        "value_combat_no_house": "552",
+        "total_development": "787670"
+      },
+      {
+        "lot_number": "49",
+        "lot_size": "173.079",
+        "full_value": "697.800",
+        "value_reservist_no_house": "433.069",
+        "value_reservist_with_house": "321.004",
+        "value_combat_no_house": "556",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "50",
+        "lot_size": "171.616",
+        "full_value": "698.500",
+        "value_reservist_no_house": "428.730",
+        "value_reservist_with_house": "317.316",
+        "value_combat_no_house": "602",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "51",
+        "lot_size": "174.443",
+        "full_value": "703.700",
+        "value_reservist_no_house": "440.064",
+        "value_reservist_with_house": "322.504",
+        "value_combat_no_house": "535",
+        "total_development": "773007"
+      },
+      {
+        "lot_number": "52",
+        "lot_size": "174.443",
+        "full_value": "703.700",
+        "value_reservist_no_house": "440.064",
+        "value_reservist_with_house": "323.380",
+        "value_combat_no_house": "535",
+        "total_development": "773007"
+      },
+      {
+        "lot_number": "53",
+        "lot_size": "188.012",
+        "full_value": "681.500",
+        "value_reservist_no_house": "420.155",
+        "value_reservist_with_house": "313.440",
+        "value_combat_no_house": "470",
+        "total_development": "717118"
+      },
+      {
+        "lot_number": "54",
+        "lot_size": "173.203",
+        "full_value": "698.400",
+        "value_reservist_no_house": "435.544",
+        "value_reservist_with_house": "321.394",
+        "value_combat_no_house": "559",
+        "total_development": "788802"
+      },
+      {
+        "lot_number": "55",
+        "lot_size": "169.232",
+        "full_value": "682.400",
+        "value_reservist_no_house": "420.594",
+        "value_reservist_with_house": "313.904",
+        "value_combat_no_house": "651",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "56",
+        "lot_size": "169.232",
+        "full_value": "678.800",
+        "value_reservist_no_house": "417.730",
+        "value_reservist_with_house": "312.240",
+        "value_combat_no_house": "879",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "57",
+        "lot_size": "184.244",
+        "full_value": "753.000",
+        "value_reservist_no_house": "485.230",
+        "value_reservist_with_house": "348.184",
+        "value_combat_no_house": "687",
+        "total_development": "796964"
+      },
+      {
+        "lot_number": "58",
+        "lot_size": "168.744",
+        "full_value": "673.000",
+        "value_reservist_no_house": "411.793",
+        "value_reservist_with_house": "310.020",
+        "value_combat_no_house": "879",
+        "total_development": "773007"
+      },
+      {
+        "lot_number": "59",
+        "lot_size": "169.304",
+        "full_value": "685.200",
+        "value_reservist_no_house": "423.530",
+        "value_reservist_with_house": "315.398",
+        "value_combat_no_house": "620",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "60",
+        "lot_size": "170.400",
+        "full_value": "687.100",
+        "value_reservist_no_house": "426.261",
+        "value_reservist_with_house": "318.696",
+        "value_combat_no_house": "610",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "61",
+        "lot_size": "169.711",
+        "full_value": "683.300",
+        "value_reservist_no_house": "421.803",
+        "value_reservist_with_house": "314.318",
+        "value_combat_no_house": "620",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "62",
+        "lot_size": "169.711",
+        "full_value": "684.400",
+        "value_reservist_no_house": "422.304",
+        "value_reservist_with_house": "314.584",
+        "value_combat_no_house": "624",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "63",
+        "lot_size": "169.711",
+        "full_value": "688.100",
+        "value_reservist_no_house": "423.714",
+        "value_reservist_with_house": "315.824",
+        "value_combat_no_house": "620",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "64",
+        "lot_size": "170.375",
+        "full_value": "687.000",
+        "value_reservist_no_house": "425.859",
+        "value_reservist_with_house": "316.020",
+        "value_combat_no_house": "598",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "65",
+        "lot_size": "171.014",
+        "full_value": "689.400",
+        "value_reservist_no_house": "427.344",
+        "value_reservist_with_house": "317.704",
+        "value_combat_no_house": "621",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "66",
+        "lot_size": "170.071",
+        "full_value": "688.400",
+        "value_reservist_no_house": "427.078",
+        "value_reservist_with_house": "315.448",
+        "value_combat_no_house": "600",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "67",
+        "lot_size": "175.757",
+        "full_value": "708.700",
+        "value_reservist_no_house": "444.917",
+        "value_reservist_with_house": "326.062",
+        "value_combat_no_house": "513",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "68",
+        "lot_size": "175.757",
+        "full_value": "708.700",
+        "value_reservist_no_house": "444.917",
+        "value_reservist_with_house": "326.062",
+        "value_combat_no_house": "513",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "69",
+        "lot_size": "173.748",
+        "full_value": "700.800",
+        "value_reservist_no_house": "437.546",
+        "value_reservist_with_house": "322.276",
+        "value_combat_no_house": "548",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "70",
+        "lot_size": "175.559",
+        "full_value": "708.700",
+        "value_reservist_no_house": "444.917",
+        "value_reservist_with_house": "326.062",
+        "value_combat_no_house": "514",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "71",
+        "lot_size": "175.559",
+        "full_value": "707.700",
+        "value_reservist_no_house": "444.917",
+        "value_reservist_with_house": "325.634",
+        "value_combat_no_house": "512",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "72",
+        "lot_size": "175.559",
+        "full_value": "707.700",
+        "value_reservist_no_house": "444.917",
+        "value_reservist_with_house": "325.220",
+        "value_combat_no_house": "517",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "73",
+        "lot_size": "175.335",
+        "full_value": "700.400",
+        "value_reservist_no_house": "437.364",
+        "value_reservist_with_house": "324.084",
+        "value_combat_no_house": "550",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "74",
+        "lot_size": "175.335",
+        "full_value": "700.400",
+        "value_reservist_no_house": "437.364",
+        "value_reservist_with_house": "323.890",
+        "value_combat_no_house": "556",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "75",
+        "lot_size": "172.707",
+        "full_value": "700.400",
+        "value_reservist_no_house": "437.455",
+        "value_reservist_with_house": "323.230",
+        "value_combat_no_house": "555",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "76",
+        "lot_size": "172.831",
+        "full_value": "696.800",
+        "value_reservist_no_house": "434.178",
+        "value_reservist_with_house": "320.574",
+        "value_combat_no_house": "563",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "77",
+        "lot_size": "169.038",
+        "full_value": "681.000",
+        "value_reservist_no_house": "420.256",
+        "value_reservist_with_house": "313.570",
+        "value_combat_no_house": "639",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "78",
+        "lot_size": "168.516",
+        "full_value": "678.800",
+        "value_reservist_no_house": "418.295",
+        "value_reservist_with_house": "312.536",
+        "value_combat_no_house": "630",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "79",
+        "lot_size": "173.575",
+        "full_value": "699.000",
+        "value_reservist_no_house": "435.911",
+        "value_reservist_with_house": "315.596",
+        "value_combat_no_house": "556",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "80",
+        "lot_size": "173.575",
+        "full_value": "699.000",
+        "value_reservist_no_house": "435.911",
+        "value_reservist_with_house": "321.540",
+        "value_combat_no_house": "555",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "81",
+        "lot_size": "170.521",
+        "full_value": "703.200",
+        "value_reservist_no_house": "441.185",
+        "value_reservist_with_house": "323.610",
+        "value_combat_no_house": "533",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "82",
+        "lot_size": "170.521",
+        "full_value": "688.800",
+        "value_reservist_no_house": "427.112",
+        "value_reservist_with_house": "317.052",
+        "value_combat_no_house": "558",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "83",
+        "lot_size": "172.482",
+        "full_value": "671.300",
+        "value_reservist_no_house": "410.883",
+        "value_reservist_with_house": "308.796",
+        "value_combat_no_house": "488",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "84",
+        "lot_size": "168.424",
+        "full_value": "699.200",
+        "value_reservist_no_house": "439.272",
+        "value_reservist_with_house": "321.632",
+        "value_combat_no_house": "488",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "85",
+        "lot_size": "174.618",
+        "full_value": "704.100",
+        "value_reservist_no_house": "440.731",
+        "value_reservist_with_house": "323.886",
+        "value_combat_no_house": "534",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "86",
+        "lot_size": "175.232",
+        "full_value": "708.800",
+        "value_reservist_no_house": "444.836",
+        "value_reservist_with_house": "325.994",
+        "value_combat_no_house": "469",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "87",
+        "lot_size": "168.739",
+        "full_value": "691.000",
+        "value_reservist_no_house": "419.164",
+        "value_reservist_with_house": "312.944",
+        "value_combat_no_house": "469",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "88",
+        "lot_size": "173.152",
+        "full_value": "642.400",
+        "value_reservist_no_house": "384.584",
+        "value_reservist_with_house": "295.504",
+        "value_combat_no_house": "431",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "89",
+        "lot_size": "172.978",
+        "full_value": "693.300",
+        "value_reservist_no_house": "432.597",
+        "value_reservist_with_house": "319.686",
+        "value_combat_no_house": "539",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "90",
+        "lot_size": "172.880",
+        "full_value": "693.300",
+        "value_reservist_no_house": "432.064",
+        "value_reservist_with_house": "319.686",
+        "value_combat_no_house": "539",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "91",
+        "lot_size": "172.873",
+        "full_value": "703.100",
+        "value_reservist_no_house": "439.010",
+        "value_reservist_with_house": "322.596",
+        "value_combat_no_house": "539",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "92",
+        "lot_size": "172.873",
+        "full_value": "701.700",
+        "value_reservist_no_house": "438.100",
+        "value_reservist_with_house": "322.506",
+        "value_combat_no_house": "542",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "93",
+        "lot_size": "174.546",
+        "full_value": "701.200",
+        "value_reservist_no_house": "436.092",
+        "value_reservist_with_house": "322.552",
+        "value_combat_no_house": "542",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "94",
+        "lot_size": "173.972",
+        "full_value": "701.200",
+        "value_reservist_no_house": "436.350",
+        "value_reservist_with_house": "322.552",
+        "value_combat_no_house": "542",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "95",
+        "lot_size": "173.972",
+        "full_value": "702.500",
+        "value_reservist_no_house": "439.275",
+        "value_reservist_with_house": "322.552",
+        "value_combat_no_house": "541",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "96",
+        "lot_size": "174.488",
+        "full_value": "703.500",
+        "value_reservist_no_house": "440.165",
+        "value_reservist_with_house": "323.430",
+        "value_combat_no_house": "500",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "97",
+        "lot_size": "173.873",
+        "full_value": "701.100",
+        "value_reservist_no_house": "439.010",
+        "value_reservist_with_house": "322.596",
+        "value_combat_no_house": "490",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "98",
+        "lot_size": "173.873",
+        "full_value": "700.400",
+        "value_reservist_no_house": "438.100",
+        "value_reservist_with_house": "322.506",
+        "value_combat_no_house": "468",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "99",
+        "lot_size": "174.846",
+        "full_value": "701.800",
+        "value_reservist_no_house": "439.628",
+        "value_reservist_with_house": "322.596",
+        "value_combat_no_house": "543",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "100",
+        "lot_size": "174.048",
+        "full_value": "701.800",
+        "value_reservist_no_house": "438.638",
+        "value_reservist_with_house": "322.596",
+        "value_combat_no_house": "543",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "101",
+        "lot_size": "153.878",
+        "full_value": "636.600",
+        "value_reservist_no_house": "373.576",
+        "value_reservist_with_house": "292.336",
+        "value_combat_no_house": "426",
+        "total_development": "831894"
+      },
+      {
+        "lot_number": "102",
+        "lot_size": "158.314",
+        "full_value": "603.300",
+        "value_reservist_no_house": "373.576",
+        "value_reservist_with_house": "288.692",
+        "value_combat_no_house": "333",
+        "total_development": "765998"
+      },
+      {
+        "lot_number": "103",
+        "lot_size": "154.553",
+        "full_value": "603.200",
+        "value_reservist_no_house": "388.584",
+        "value_reservist_with_house": "286.672",
+        "value_combat_no_house": "380",
+        "total_development": "773995"
+      },
+      {
+        "lot_number": "104",
+        "lot_size": "152.272",
+        "full_value": "621.100",
+        "value_reservist_no_house": "391.740",
+        "value_reservist_with_house": "303.896",
+        "value_combat_no_house": "391",
+        "total_development": "778645"
+      },
+      {
+        "lot_number": "105",
+        "lot_size": "155.520",
+        "full_value": "627.100",
+        "value_reservist_no_house": "394.544",
+        "value_reservist_with_house": "310.716",
+        "value_combat_no_house": "391",
+        "total_development": "782654"
+      },
+      {
+        "lot_number": "106",
+        "lot_size": "161.051",
+        "full_value": "648.400",
+        "value_reservist_no_house": "399.854",
+        "value_reservist_with_house": "298.724",
+        "value_combat_no_house": "423",
+        "total_development": "794292"
+      },
+      {
+        "lot_number": "107",
+        "lot_size": "159.340",
+        "full_value": "661.700",
+        "value_reservist_no_house": "402.147",
+        "value_reservist_with_house": "295.550",
+        "value_combat_no_house": "450",
+        "total_development": "797769"
+      },
+      {
+        "lot_number": "108",
+        "lot_size": "159.340",
+        "full_value": "661.700",
+        "value_reservist_no_house": "384.675",
+        "value_reservist_with_house": "295.550",
+        "value_combat_no_house": "450",
+        "total_development": "797769"
+      },
+      {
+        "lot_number": "109",
+        "lot_size": "164.101",
+        "full_value": "642.300",
+        "value_reservist_no_house": "432.773",
+        "value_reservist_with_house": "302.184",
+        "value_combat_no_house": "484",
+        "total_development": "789111"
+      },
+      {
+        "lot_number": "110",
+        "lot_size": "160.332",
+        "full_value": "645.300",
+        "value_reservist_no_house": "386.315",
+        "value_reservist_with_house": "289.330",
+        "value_combat_no_house": "484",
+        "total_development": "772065"
+      },
+      {
+        "lot_number": "111",
+        "lot_size": "167.548",
+        "full_value": "673.500",
+        "value_reservist_no_house": "414.796",
+        "value_reservist_with_house": "310.716",
+        "value_combat_no_house": "455",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "112",
+        "lot_size": "167.548",
+        "full_value": "673.500",
+        "value_reservist_no_house": "414.796",
+        "value_reservist_with_house": "310.716",
+        "value_combat_no_house": "454",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "113",
+        "lot_size": "158.844",
+        "full_value": "643.500",
+        "value_reservist_no_house": "382.855",
+        "value_reservist_with_house": "294.284",
+        "value_combat_no_house": "424",
+        "total_development": "790049"
+      },
+      {
+        "lot_number": "114",
+        "lot_size": "171.515",
+        "full_value": "691.600",
+        "value_reservist_no_house": "429.395",
+        "value_reservist_with_house": "318.196",
+        "value_combat_no_house": "500",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "115",
+        "lot_size": "151.280",
+        "full_value": "610.000",
+        "value_reservist_no_house": "353.100",
+        "value_reservist_with_house": "224.720",
+        "value_combat_no_house": "357",
+        "total_development": "753490"
+      },
+      {
+        "lot_number": "116",
+        "lot_size": "158.833",
+        "full_value": "622.800",
+        "value_reservist_no_house": "373.494",
+        "value_reservist_with_house": "286.500",
+        "value_combat_no_house": "381",
+        "total_development": "760199"
+      },
+      {
+        "lot_number": "117",
+        "lot_size": "154.454",
+        "full_value": "625.700",
+        "value_reservist_no_house": "393.746",
+        "value_reservist_with_house": "298.522",
+        "value_combat_no_house": "385",
+        "total_development": "763832"
+      },
+      {
+        "lot_number": "118",
+        "lot_size": "157.329",
+        "full_value": "634.400",
+        "value_reservist_no_house": "379.484",
+        "value_reservist_with_house": "290.540",
+        "value_combat_no_house": "398",
+        "total_development": "769765"
+      },
+      {
+        "lot_number": "119",
+        "lot_size": "161.234",
+        "full_value": "653.200",
+        "value_reservist_no_house": "378.032",
+        "value_reservist_with_house": "292.190",
+        "value_combat_no_house": "403",
+        "total_development": "776394"
+      },
+      {
+        "lot_number": "120",
+        "lot_size": "171.288",
+        "full_value": "688.800",
+        "value_reservist_no_house": "428.786",
+        "value_reservist_with_house": "317.576",
+        "value_combat_no_house": "586",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "121",
+        "lot_size": "174.618",
+        "full_value": "704.100",
+        "value_reservist_no_house": "440.731",
+        "value_reservist_with_house": "323.886",
+        "value_combat_no_house": "501",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "122",
+        "lot_size": "158.844",
+        "full_value": "640.800",
+        "value_reservist_no_house": "385.128",
+        "value_reservist_with_house": "294.284",
+        "value_combat_no_house": "413",
+        "total_development": "790049"
+      },
+      {
+        "lot_number": "123",
+        "lot_size": "158.844",
+        "full_value": "643.500",
+        "value_reservist_no_house": "385.128",
+        "value_reservist_with_house": "294.284",
+        "value_combat_no_house": "413",
+        "total_development": "790049"
+      },
+      {
+        "lot_number": "124",
+        "lot_size": "173.352",
+        "full_value": "693.500",
+        "value_reservist_no_house": "433.095",
+        "value_reservist_with_house": "321.540",
+        "value_combat_no_house": "555",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "125",
+        "lot_size": "173.352",
+        "full_value": "699.500",
+        "value_reservist_no_house": "439.095",
+        "value_reservist_with_house": "321.540",
+        "value_combat_no_house": "555",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "126",
+        "lot_size": "173.304",
+        "full_value": "697.800",
+        "value_reservist_no_house": "436.816",
+        "value_reservist_with_house": "320.596",
+        "value_combat_no_house": "506",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "127",
+        "lot_size": "173.048",
+        "full_value": "710.000",
+        "value_reservist_no_house": "440.640",
+        "value_reservist_with_house": "336.540",
+        "value_combat_no_house": "561",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "128",
+        "lot_size": "176.024",
+        "full_value": "688.800",
+        "value_reservist_no_house": "426.080",
+        "value_reservist_with_house": "316.440",
+        "value_combat_no_house": "605",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "129",
+        "lot_size": "178.624",
+        "full_value": "710.100",
+        "value_reservist_no_house": "440.640",
+        "value_reservist_with_house": "326.276",
+        "value_combat_no_house": "504",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "130",
+        "lot_size": "179.056",
+        "full_value": "810.000",
+        "value_reservist_no_house": "553.100",
+        "value_reservist_with_house": "355.100",
+        "value_combat_no_house": "357",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "131",
+        "lot_size": "176.433",
+        "full_value": "688.200",
+        "value_reservist_no_house": "427.712",
+        "value_reservist_with_house": "314.272",
+        "value_combat_no_house": "605",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "132",
+        "lot_size": "178.018",
+        "full_value": "723.000",
+        "value_reservist_no_house": "448.646",
+        "value_reservist_with_house": "328.376",
+        "value_combat_no_house": "504",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "133",
+        "lot_size": "178.018",
+        "full_value": "710.000",
+        "value_reservist_no_house": "448.646",
+        "value_reservist_with_house": "328.376",
+        "value_combat_no_house": "504",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "134",
+        "lot_size": "154.778",
+        "full_value": "624.100",
+        "value_reservist_no_house": "391.331",
+        "value_reservist_with_house": "315.066",
+        "value_combat_no_house": "382",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "135",
+        "lot_size": "154.778",
+        "full_value": "624.100",
+        "value_reservist_no_house": "391.331",
+        "value_reservist_with_house": "315.066",
+        "value_combat_no_house": "382",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "136",
+        "lot_size": "155.843",
+        "full_value": "642.300",
+        "value_reservist_no_house": "371.844",
+        "value_reservist_with_house": "295.095",
+        "value_combat_no_house": "388",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "137",
+        "lot_size": "159.294",
+        "full_value": "628.000",
+        "value_reservist_no_house": "384.463",
+        "value_reservist_with_house": "289.044",
+        "value_combat_no_house": "398",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "138",
+        "lot_size": "175.013",
+        "full_value": "711.000",
+        "value_reservist_no_house": "447.010",
+        "value_reservist_with_house": "327.060",
+        "value_combat_no_house": "502",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "139",
+        "lot_size": "175.013",
+        "full_value": "705.500",
+        "value_reservist_no_house": "445.522",
+        "value_reservist_with_house": "327.060",
+        "value_combat_no_house": "545",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "140",
+        "lot_size": "173.823",
+        "full_value": "700.200",
+        "value_reservist_no_house": "437.819",
+        "value_reservist_with_house": "322.444",
+        "value_combat_no_house": "545",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "141",
+        "lot_size": "173.823",
+        "full_value": "700.200",
+        "value_reservist_no_house": "437.819",
+        "value_reservist_with_house": "322.444",
+        "value_combat_no_house": "545",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "142",
+        "lot_size": "175.312",
+        "full_value": "709.400",
+        "value_reservist_no_house": "445.554",
+        "value_reservist_with_house": "326.334",
+        "value_combat_no_house": "548",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "143",
+        "lot_size": "175.312",
+        "full_value": "709.400",
+        "value_reservist_no_house": "445.554",
+        "value_reservist_with_house": "326.334",
+        "value_combat_no_house": "548",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "144",
+        "lot_size": "175.013",
+        "full_value": "705.700",
+        "value_reservist_no_house": "442.167",
+        "value_reservist_with_house": "326.334",
+        "value_combat_no_house": "526",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "145",
+        "lot_size": "174.539",
+        "full_value": "705.400",
+        "value_reservist_no_house": "441.914",
+        "value_reservist_with_house": "324.484",
+        "value_combat_no_house": "529",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "146",
+        "lot_size": "167.923",
+        "full_value": "673.500",
+        "value_reservist_no_house": "427.283",
+        "value_reservist_with_house": "310.313",
+        "value_combat_no_house": "530",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "147",
+        "lot_size": "170.946",
+        "full_value": "696.300",
+        "value_reservist_no_house": "427.283",
+        "value_reservist_with_house": "315.781",
+        "value_combat_no_house": "559",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "148",
+        "lot_size": "170.946",
+        "full_value": "696.300",
+        "value_reservist_no_house": "427.283",
+        "value_reservist_with_house": "315.781",
+        "value_combat_no_house": "559",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "149",
+        "lot_size": "151.302",
+        "full_value": "610.900",
+        "value_reservist_no_house": "353.919",
+        "value_reservist_with_house": "281.014",
+        "value_combat_no_house": "359",
+        "total_development": "780337"
+      },
+      {
+        "lot_number": "150",
+        "lot_size": "160.433",
+        "full_value": "683.200",
+        "value_reservist_no_house": "427.712",
+        "value_reservist_with_house": "314.272",
+        "value_combat_no_house": "533",
+        "total_development": "780337"
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250115,
+    "michraz_name": "115/2025",
+    "kod_yeshuv": 26,
+    "shchuna": "שכונה דרומית",
+    "plots": [
+      {
+        "lot_number": "119",
+        "lot_size": "890",
+        "full_value": "1406434",
+        "value_reservist_no_house": "575934.72",
+        "value_reservist_with_house": "575934.72",
+        "value_combat_no_house": "575934.72",
+        "total_development": "686589"
+      },
+      {
+        "lot_number": "120",
+        "lot_size": "890",
+        "full_value": "1406434",
+        "value_reservist_no_house": "575934.72",
+        "value_reservist_with_house": "575934.72",
+        "value_combat_no_house": "575934.72",
+        "total_development": "685829"
+      },
+      {
+        "lot_number": "123",
+        "lot_size": "900",
+        "full_value": "1492983",
+        "value_reservist_no_house": "611376.54",
+        "value_reservist_with_house": "611376.54",
+        "value_combat_no_house": "611376.54",
+        "total_development": "690199"
+      },
+      {
+        "lot_number": "124",
+        "lot_size": "900",
+        "full_value": "1492983",
+        "value_reservist_no_house": "611376.54",
+        "value_reservist_with_house": "611376.54",
+        "value_combat_no_house": "611376.54",
+        "total_development": "691502"
+      },
+      {
+        "lot_number": "125",
+        "lot_size": "900",
+        "full_value": "1492983",
+        "value_reservist_no_house": "611376.54",
+        "value_reservist_with_house": "611376.54",
+        "value_combat_no_house": "611376.54",
+        "total_development": "690199"
+      },
+      {
+        "lot_number": "126",
+        "lot_size": "890",
+        "full_value": "1485896",
+        "value_reservist_no_house": "608474.41",
+        "value_reservist_with_house": "608474.41",
+        "value_combat_no_house": "608474.41",
+        "total_development": "687132"
+      },
+      {
+        "lot_number": "304/2",
+        "lot_size": "428",
+        "full_value": "725227",
+        "value_reservist_no_house": "593960.91",
+        "value_reservist_with_house": "593960.91",
+        "value_combat_no_house": "593960.91",
+        "total_development": "557233"
+      },
+      {
+        "lot_number": "316/2",
+        "lot_size": "469",
+        "full_value": "697485",
+        "value_reservist_no_house": "571240.22",
+        "value_reservist_with_house": "571240.22",
+        "value_combat_no_house": "571240.22",
+        "total_development": "584503"
+      },
+      {
+        "lot_number": "457",
+        "lot_size": "607",
+        "full_value": "1013142",
+        "value_reservist_no_house": "829763.3",
+        "value_reservist_with_house": "829763.3",
+        "value_combat_no_house": "829763.3",
+        "total_development": "434209"
+      },
+      {
+        "lot_number": "458",
+        "lot_size": "565",
+        "full_value": "1006921",
+        "value_reservist_no_house": "824668.3",
+        "value_reservist_with_house": "824668.3",
+        "value_combat_no_house": "824668.3",
+        "total_development": "418914"
+      },
+      {
+        "lot_number": "459",
+        "lot_size": "714",
+        "full_value": "1126924",
+        "value_reservist_no_house": "922950.76",
+        "value_reservist_with_house": "922950.76",
+        "value_combat_no_house": "925500.84",
+        "total_development": "473484"
+      },
+      {
+        "lot_number": "460",
+        "lot_size": "599",
+        "full_value": "1033995",
+        "value_reservist_no_house": "846841.91",
+        "value_reservist_with_house": "846841.91",
+        "value_combat_no_house": "846841.91",
+        "total_development": "431660"
+      },
+      {
+        "lot_number": "461",
+        "lot_size": "526",
+        "full_value": "975510",
+        "value_reservist_no_house": "798942.69",
+        "value_reservist_with_house": "798942.69",
+        "value_combat_no_house": "798942.69",
+        "total_development": "405021"
+      },
+      {
+        "lot_number": "462",
+        "lot_size": "505",
+        "full_value": "933219",
+        "value_reservist_no_house": "764306.36",
+        "value_reservist_with_house": "764306.36",
+        "value_combat_no_house": "764306.36",
+        "total_development": "397374"
+      },
+      {
+        "lot_number": "463",
+        "lot_size": "503",
+        "full_value": "930726",
+        "value_reservist_no_house": "762264.59",
+        "value_reservist_with_house": "762264.59",
+        "value_combat_no_house": "762264.59",
+        "total_development": "397738"
+      },
+      {
+        "lot_number": "464",
+        "lot_size": "495",
+        "full_value": "974159",
+        "value_reservist_no_house": "797836.22",
+        "value_reservist_with_house": "797836.22",
+        "value_combat_no_house": "797836.22",
+        "total_development": "395553"
+      },
+      {
+        "lot_number": "465",
+        "lot_size": "500",
+        "full_value": "979838",
+        "value_reservist_no_house": "802487.32",
+        "value_reservist_with_house": "802487.32",
+        "value_combat_no_house": "802487.32",
+        "total_development": "395244"
+      },
+      {
+        "lot_number": "470",
+        "lot_size": "536",
+        "full_value": "983564",
+        "value_reservist_no_house": "805538.92",
+        "value_reservist_with_house": "805538.92",
+        "value_combat_no_house": "805538.92",
+        "total_development": "408354"
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250113,
+    "michraz_name": "113/2025",
+    "kod_yeshuv": 122,
+    "shchuna": "פרדס וחיסכון",
+    "plots": [
+      {
+        "lot_number": "17",
+        "lot_size": "",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "8,680,015"
+      },
+      {
+        "lot_number": "111",
+        "lot_size": "362",
+        "full_value": "1,929,896",
+        "value_reservist_no_house": "1,656,205.36",
+        "value_reservist_with_house": "1,756,205.36",
+        "value_combat_no_house": "1,606,205.36",
+        "total_development": "338,977"
+      },
+      {
+        "lot_number": "112",
+        "lot_size": "334",
+        "full_value": "1,632,874",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "324,495"
+      },
+      {
+        "lot_number": "123",
+        "lot_size": "477",
+        "full_value": "2,454,739",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "550,198"
+      },
+      {
+        "lot_number": "124",
+        "lot_size": "305",
+        "full_value": "1,625,275",
+        "value_reservist_no_house": "1,379,000.25",
+        "value_reservist_with_house": "1,479,000.25",
+        "value_combat_no_house": "1,331,100.23",
+        "total_development": "309,495"
+      },
+      {
+        "lot_number": "125",
+        "lot_size": "484",
+        "full_value": "2,525,393",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "553,818"
+      },
+      {
+        "lot_number": "126",
+        "lot_size": "516",
+        "full_value": "2,709,640",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "570,370"
+      },
+      {
+        "lot_number": "131",
+        "lot_size": "297",
+        "full_value": "1,560,145",
+        "value_reservist_no_house": "1,319,731.95",
+        "value_reservist_with_house": "1,419,731.95",
+        "value_combat_no_house": "1,277,758.76",
+        "total_development": "305,357"
+      },
+      {
+        "lot_number": "134",
+        "lot_size": "444",
+        "full_value": "2,218,388",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "533,129"
+      },
+      {
+        "lot_number": "137",
+        "lot_size": "509",
+        "full_value": "2,580,512",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "566,749"
+      },
+      {
+        "lot_number": "138",
+        "lot_size": "644",
+        "full_value": "3,323,748",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "636,577"
+      },
+      {
+        "lot_number": "139",
+        "lot_size": "539",
+        "full_value": "2,841,908",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "582,267"
+      },
+      {
+        "lot_number": "140",
+        "lot_size": "525",
+        "full_value": "2,827,720",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "575,025"
+      },
+      {
+        "lot_number": "141",
+        "lot_size": "553",
+        "full_value": "2,991,691",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "589,508"
+      },
+      {
+        "lot_number": "142",
+        "lot_size": "603",
+        "full_value": "3,285,828",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "615,369"
+      },
+      {
+        "lot_number": "143",
+        "lot_size": "647",
+        "full_value": "3,544,465",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "638,128"
+      },
+      {
+        "lot_number": "144",
+        "lot_size": "743",
+        "full_value": "4,244,665",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": "687,782"
+      },
+      {
+        "lot_number": "145",
+        "lot_size": "292",
+        "full_value": "1,550,477",
+        "value_reservist_no_house": "1,310,934.07",
+        "value_reservist_with_house": "1,410,934.07",
+        "value_combat_no_house": "1,269,840.66",
+        "total_development": "302,771"
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250106,
+    "michraz_name": "106/2025",
+    "kod_yeshuv": 9200,
+    "shchuna": "דרום מערבית",
+    "plots": [
+      {
+        "lot_number": "252",
+        "lot_size": "450",
+        "full_value": "554,276",
+        "value_reservist_no_house": "39,630.73",
+        "value_reservist_with_house": "84,104.25",
+        "value_combat_no_house": "39,630.73",
+        "total_development": "393,092"
+      },
+      {
+        "lot_number": "264",
+        "lot_size": "450",
+        "full_value": "554,276",
+        "value_reservist_no_house": "39,630.73",
+        "value_reservist_with_house": "84,104.25",
+        "value_combat_no_house": "39,630.73",
+        "total_development": "393,092"
+      },
+      {
+        "lot_number": "278",
+        "lot_size": "450",
+        "full_value": "554,276",
+        "value_reservist_no_house": "39,630.73",
+        "value_reservist_with_house": "84,104.25",
+        "value_combat_no_house": "39,630.73",
+        "total_development": "393,092"
+      },
+      {
+        "lot_number": "289",
+        "lot_size": "600",
+        "full_value": "950,174",
+        "value_reservist_no_house": "33,968.72",
+        "value_reservist_with_house": "49,409.05",
+        "value_combat_no_house": "33,968.72",
+        "total_development": "613,440"
+      },
+      {
+        "lot_number": "294",
+        "lot_size": "600",
+        "full_value": "923,425",
+        "value_reservist_no_house": "33,012.44",
+        "value_reservist_with_house": "48,018.1",
+        "value_combat_no_house": "33,012.44",
+        "total_development": "614,014"
+      },
+      {
+        "lot_number": "297",
+        "lot_size": "600",
+        "full_value": "923,425",
+        "value_reservist_no_house": "33,012.44",
+        "value_reservist_with_house": "48,018.1",
+        "value_combat_no_house": "33,012.44",
+        "total_development": "614,014"
+      },
+      {
+        "lot_number": "305",
+        "lot_size": "600",
+        "full_value": "923,425",
+        "value_reservist_no_house": "33,012.44",
+        "value_reservist_with_house": "48,018.1",
+        "value_combat_no_house": "33,012.44",
+        "total_development": "614,014"
+      },
+      {
+        "lot_number": "306",
+        "lot_size": "600",
+        "full_value": "949,696",
+        "value_reservist_no_house": "33,951.63",
+        "value_reservist_with_house": "49,384.19",
+        "value_combat_no_house": "33,951.63",
+        "total_development": "614,014"
+      },
+      {
+        "lot_number": "312",
+        "lot_size": "600",
+        "full_value": "923,425",
+        "value_reservist_no_house": "33,012.44",
+        "value_reservist_with_house": "48,018.1",
+        "value_combat_no_house": "33,012.44",
+        "total_development": "614,014"
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250095,
+    "michraz_name": "95/2025",
+    "kod_yeshuv": 31,
+    "shchuna": "אפיקי נחל",
+    "plots": [
+      {
+        "lot_number": "1",
+        "lot_size": "161.08",
+        "full_value": "1006488.99",
+        "value_reservist_no_house": "240810",
+        "value_reservist_with_house": "276385",
+        "value_combat_no_house": "523300",
+        "total_development": "1006489"
+      },
+      {
+        "lot_number": "2",
+        "lot_size": "161.08",
+        "full_value": "1006488.99",
+        "value_reservist_no_house": "240810",
+        "value_reservist_with_house": "276385",
+        "value_combat_no_house": "523300",
+        "total_development": "1006489"
+      },
+      {
+        "lot_number": "3",
+        "lot_size": "153.18",
+        "full_value": "968008",
+        "value_reservist_no_house": "238141",
+        "value_reservist_with_house": "267144.5",
+        "value_combat_no_house": "513300",
+        "total_development": "966007"
+      },
+      {
+        "lot_number": "4",
+        "lot_size": "152.54",
+        "full_value": "968008",
+        "value_reservist_no_house": "236405",
+        "value_reservist_with_house": "265602.5",
+        "value_combat_no_house": "511750",
+        "total_development": "966007"
+      },
+      {
+        "lot_number": "5",
+        "lot_size": "152.54",
+        "full_value": "968008",
+        "value_reservist_no_house": "236405",
+        "value_reservist_with_house": "265602.5",
+        "value_combat_no_house": "511750",
+        "total_development": "966007"
+      },
+      {
+        "lot_number": "6",
+        "lot_size": "153.00",
+        "full_value": "968008",
+        "value_reservist_no_house": "238003",
+        "value_reservist_with_house": "266875.5",
+        "value_combat_no_house": "513050",
+        "total_development": "966007"
+      },
+      {
+        "lot_number": "7",
+        "lot_size": "143.11",
+        "full_value": "968008",
+        "value_reservist_no_house": "233379",
+        "value_reservist_with_house": "254315",
+        "value_combat_no_house": "498650",
+        "total_development": "923809"
+      },
+      {
+        "lot_number": "8",
+        "lot_size": "143.11",
+        "full_value": "968008",
+        "value_reservist_no_house": "233379",
+        "value_reservist_with_house": "254315",
+        "value_combat_no_house": "498650",
+        "total_development": "926235"
+      },
+      {
+        "lot_number": "9",
+        "lot_size": "138.65",
+        "full_value": "1016184",
+        "value_reservist_no_house": "240810",
+        "value_reservist_with_house": "276385",
+        "value_combat_no_house": "472450",
+        "total_development": "904184"
+      },
+      {
+        "lot_number": "10",
+        "lot_size": "138.65",
+        "full_value": "1016184",
+        "value_reservist_no_house": "240810",
+        "value_reservist_with_house": "276385",
+        "value_combat_no_house": "472450",
+        "total_development": "904184"
+      },
+      {
+        "lot_number": "11",
+        "lot_size": "140.02",
+        "full_value": "1023616",
+        "value_reservist_no_house": "230282",
+        "value_reservist_with_house": "264017.5",
+        "value_combat_no_house": "439350",
+        "total_development": "904184"
+      },
+      {
+        "lot_number": "12",
+        "lot_size": "140.02",
+        "full_value": "1023616",
+        "value_reservist_no_house": "230282",
+        "value_reservist_with_house": "264017.5",
+        "value_combat_no_house": "439350",
+        "total_development": "904184"
+      },
+      {
+        "lot_number": "13",
+        "lot_size": "130.40",
+        "full_value": "968008",
+        "value_reservist_no_house": "223379",
+        "value_reservist_with_house": "254315",
+        "value_combat_no_house": "498650",
+        "total_development": ""
+      },
+      {
+        "lot_number": "14",
+        "lot_size": "130.40",
+        "full_value": "968008",
+        "value_reservist_no_house": "223379",
+        "value_reservist_with_house": "254315",
+        "value_combat_no_house": "498650",
+        "total_development": ""
+      },
+      {
+        "lot_number": "15",
+        "lot_size": "125.54",
+        "full_value": "968008",
+        "value_reservist_no_house": "206588",
+        "value_reservist_with_house": "238928",
+        "value_combat_no_house": "449800",
+        "total_development": ""
+      },
+      {
+        "lot_number": "16",
+        "lot_size": "125.54",
+        "full_value": "968008",
+        "value_reservist_no_house": "206588",
+        "value_reservist_with_house": "238928",
+        "value_combat_no_house": "449800",
+        "total_development": ""
+      },
+      {
+        "lot_number": "17",
+        "lot_size": "125.54",
+        "full_value": "968008",
+        "value_reservist_no_house": "206588",
+        "value_reservist_with_house": "238928",
+        "value_combat_no_house": "449800",
+        "total_development": ""
+      },
+      {
+        "lot_number": "18",
+        "lot_size": "125.54",
+        "full_value": "968008",
+        "value_reservist_no_house": "206588",
+        "value_reservist_with_house": "238928",
+        "value_combat_no_house": "449800",
+        "total_development": ""
+      },
+      {
+        "lot_number": "19",
+        "lot_size": "125.54",
+        "full_value": "968008",
+        "value_reservist_no_house": "206588",
+        "value_reservist_with_house": "238928",
+        "value_combat_no_house": "449800",
+        "total_development": ""
+      },
+      {
+        "lot_number": "20",
+        "lot_size": "125.54",
+        "full_value": "968008",
+        "value_reservist_no_house": "206588",
+        "value_reservist_with_house": "238928",
+        "value_combat_no_house": "449800",
+        "total_development": ""
+      },
+      {
+        "lot_number": "21",
+        "lot_size": "125.54",
+        "full_value": "968008",
+        "value_reservist_no_house": "206588",
+        "value_reservist_with_house": "238928",
+        "value_combat_no_house": "449800",
+        "total_development": ""
+      },
+      {
+        "lot_number": "22",
+        "lot_size": "125.54",
+        "full_value": "968008",
+        "value_reservist_no_house": "206588",
+        "value_reservist_with_house": "238928",
+        "value_combat_no_house": "449800",
+        "total_development": ""
+      },
+      {
+        "lot_number": "23",
+        "lot_size": "125.54",
+        "full_value": "968008",
+        "value_reservist_no_house": "206588",
+        "value_reservist_with_house": "238928",
+        "value_combat_no_house": "449800",
+        "total_development": ""
+      },
+      {
+        "lot_number": "24",
+        "lot_size": "125.54",
+        "full_value": "968008",
+        "value_reservist_no_house": "206588",
+        "value_reservist_with_house": "238928",
+        "value_combat_no_house": "449800",
+        "total_development": ""
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250064,
+    "michraz_name": "64/2025",
+    "kod_yeshuv": 831,
+    "shchuna": "המכתש",
+    "plots": [
+      {
+        "lot_number": "",
+        "lot_size": "",
+        "full_value": "",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      }
+    ]
+  },
+    {
+    "michraz_id": 20230019,
+    "michraz_name": "19/2023",
+    "kod_yeshuv": 2560,
+    "shchuna": "רננים",
+    "plots": [
+      {
+        "lot_number": "1001",
+        "lot_size": "461",
+        "full_value": "177,600",
+        "value_reservist_no_house": "18,470.4",
+        "value_reservist_with_house": "12,698.4",
+        "value_combat_no_house": "18,470.4",
+        "total_development": "653,833"
+      },
+      {
+        "lot_number": "1002",
+        "lot_size": "461",
+        "full_value": "177,600",
+        "value_reservist_no_house": "18,470.4",
+        "value_reservist_with_house": "12,698.4",
+        "value_combat_no_house": "18,470.4",
+        "total_development": "653,833"
+      },
+      {
+        "lot_number": "1003",
+        "lot_size": "465",
+        "full_value": "176,900",
+        "value_reservist_no_house": "18,397.6",
+        "value_reservist_with_house": "12,648.35",
+        "value_combat_no_house": "18,397.6",
+        "total_development": "643,597"
+      },
+      {
+        "lot_number": "1004",
+        "lot_size": "424",
+        "full_value": "158,600",
+        "value_reservist_no_house": "16,494.4",
+        "value_reservist_with_house": "11,339.9",
+        "value_combat_no_house": "16,494.4",
+        "total_development": "601,152"
+      },
+      {
+        "lot_number": "1343",
+        "lot_size": "399",
+        "full_value": "158,600",
+        "value_reservist_no_house": "16,494.4",
+        "value_reservist_with_house": "11,339.9",
+        "value_combat_no_house": "16,494.4",
+        "total_development": "590,309"
+      },
+      {
+        "lot_number": "1357",
+        "lot_size": "432",
+        "full_value": "184,300",
+        "value_reservist_no_house": "19,167.2",
+        "value_reservist_with_house": "13,177.45",
+        "value_combat_no_house": "19,167.2",
+        "total_development": "653,833"
+      },
+      {
+        "lot_number": "1358",
+        "lot_size": "432",
+        "full_value": "184,300",
+        "value_reservist_no_house": "19,167.2",
+        "value_reservist_with_house": "13,177.45",
+        "value_combat_no_house": "19,167.2",
+        "total_development": "653,833"
+      },
+      {
+        "lot_number": "1365",
+        "lot_size": "432",
+        "full_value": "184,300",
+        "value_reservist_no_house": "19,167.2",
+        "value_reservist_with_house": "13,177.45",
+        "value_combat_no_house": "19,167.2",
+        "total_development": "653,833"
+      },
+      {
+        "lot_number": "1366",
+        "lot_size": "432",
+        "full_value": "184,300",
+        "value_reservist_no_house": "19,167.2",
+        "value_reservist_with_house": "13,177.45",
+        "value_combat_no_house": "19,167.2",
+        "total_development": "653,833"
+      },
+      {
+        "lot_number": "1388",
+        "lot_size": "441",
+        "full_value": "188,800",
+        "value_reservist_no_house": "19,635.2",
+        "value_reservist_with_house": "13,499.2",
+        "value_combat_no_house": "19,635.2",
+        "total_development": "680,690"
+      },
+      {
+        "lot_number": "1389",
+        "lot_size": "425",
+        "full_value": "175,600",
+        "value_reservist_no_house": "18,262.4",
+        "value_reservist_with_house": "12,555.4",
+        "value_combat_no_house": "18,262.4",
+        "total_development": "642,279"
+      },
+      {
+        "lot_number": "1390",
+        "lot_size": "411",
+        "full_value": "167,500",
+        "value_reservist_no_house": "17,420",
+        "value_reservist_with_house": "11,976.25",
+        "value_combat_no_house": "17,420",
+        "total_development": "619,663"
+      },
+      {
+        "lot_number": "1391",
+        "lot_size": "416",
+        "full_value": "169,300",
+        "value_reservist_no_house": "17,607.2",
+        "value_reservist_with_house": "12,104.95",
+        "value_combat_no_house": "17,607.2",
+        "total_development": "627,705"
+      },
+      {
+        "lot_number": "1392",
+        "lot_size": "492",
+        "full_value": "219,300",
+        "value_reservist_no_house": "22,807.2",
+        "value_reservist_with_house": "15,679.95",
+        "value_combat_no_house": "22,807.2",
+        "total_development": "707,384"
+      },
+      {
+        "lot_number": "1414",
+        "lot_size": "401",
+        "full_value": "161,200",
+        "value_reservist_no_house": "16,764.8",
+        "value_reservist_with_house": "11,525.8",
+        "value_combat_no_house": "16,764.8",
+        "total_development": "611,546"
+      },
+      {
+        "lot_number": "1422",
+        "lot_size": "400",
+        "full_value": "160,300",
+        "value_reservist_no_house": "16,671.2",
+        "value_reservist_with_house": "11,461.45",
+        "value_combat_no_house": "16,671.2",
+        "total_development": "601,280"
+      },
+      {
+        "lot_number": "1423",
+        "lot_size": "399",
+        "full_value": "160,300",
+        "value_reservist_no_house": "16,671.2",
+        "value_reservist_with_house": "11,461.45",
+        "value_combat_no_house": "16,671.2",
+        "total_development": "601,280"
+      },
+      {
+        "lot_number": "1429",
+        "lot_size": "391",
+        "full_value": "155,800",
+        "value_reservist_no_house": "16,203.2",
+        "value_reservist_with_house": "11,139.7",
+        "value_combat_no_house": "16,203.2",
+        "total_development": "580,725"
+      },
+      {
+        "lot_number": "1430",
+        "lot_size": "385",
+        "full_value": "152,200",
+        "value_reservist_no_house": "15,828.8",
+        "value_reservist_with_house": "10,882.3",
+        "value_combat_no_house": "15,828.8",
+        "total_development": "569,837"
+      },
+      {
+        "lot_number": "1431",
+        "lot_size": "388",
+        "full_value": "153,200",
+        "value_reservist_no_house": "15,932.8",
+        "value_reservist_with_house": "10,953.8",
+        "value_combat_no_house": "15,932.8",
+        "total_development": "573,924"
+      },
+      {
+        "lot_number": "1432",
+        "lot_size": "390",
+        "full_value": "154,100",
+        "value_reservist_no_house": "16,026.4",
+        "value_reservist_with_house": "11,018.15",
+        "value_combat_no_house": "16,026.4",
+        "total_development": "577,690"
+      },
+      {
+        "lot_number": "1433",
+        "lot_size": "442",
+        "full_value": "191,300",
+        "value_reservist_no_house": "19,895.2",
+        "value_reservist_with_house": "13,677.95",
+        "value_combat_no_house": "19,895.2",
+        "total_development": "694,154"
+      },
+      {
+        "lot_number": "1434",
+        "lot_size": "610",
+        "full_value": "288,500",
+        "value_reservist_no_house": "30,004",
+        "value_reservist_with_house": "20,627.75",
+        "value_combat_no_house": "30,004",
+        "total_development": "794,154"
+      },
+      {
+        "lot_number": "1435",
+        "lot_size": "487",
+        "full_value": "216,600",
+        "value_reservist_no_house": "22,526.4",
+        "value_reservist_with_house": "15,486.9",
+        "value_combat_no_house": "22,526.4",
+        "total_development": "681,306"
+      }
+    ]
+  },
+  {
+    "michraz_id": 20240467,
+    "michraz_name": "467/2024",
+    "kod_yeshuv": 812,
+    "shchuna": "חמודות",
+    "plots": []
+  },
+  {
+    "michraz_id": 20240468,
+    "michraz_name": "468/2024",
+    "kod_yeshuv": 812,
+    "shchuna": "חמודות",
+    "plots": [
+      {
+        "lot_number": "string",
+        "lot_size": "string",
+        "full_value": "string",
+        "value_reservist_no_house": "string",
+        "value_reservist_with_house": "string",
+        "value_combat_no_house": "string",
+        "total_development": "string"
+      }
+    ]
+  },
+  {
+    "michraz_id": 20250060,
+    "michraz_name": "60/2025",
+    "kod_yeshuv": 9000,
+    "shchuna": "רקפות",
+    "plots": [
+      {
+        "lot_number": "66069",
+        "lot_size": "21,984",
+        "full_value": "1,804,594",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "66072",
+        "lot_size": "13,921",
+        "full_value": "1,100,557",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "66075",
+        "lot_size": "18,915",
+        "full_value": "1,676,918",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "66842",
+        "lot_size": "38,659",
+        "full_value": "1,741,649",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "76685",
+        "lot_size": "6,106",
+        "full_value": "515,379",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "76753",
+        "lot_size": "25,291",
+        "full_value": "2,257,296",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "78217",
+        "lot_size": "19,810",
+        "full_value": "1,521,445",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "78218",
+        "lot_size": "28,942",
+        "full_value": "2,284,888",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "78219",
+        "lot_size": "23,719",
+        "full_value": "1,846,236",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "78220",
+        "lot_size": "15,307",
+        "full_value": "1,280,968",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "78223",
+        "lot_size": "17,291",
+        "full_value": "1,154,053",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "78604",
+        "lot_size": "28,294",
+        "full_value": "2,127,054",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "78605",
+        "lot_size": "16,857",
+        "full_value": "1,243,119",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      },
+      {
+        "lot_number": "78873",
+        "lot_size": "14,936",
+        "full_value": "1,274,049",
+        "value_reservist_no_house": "",
+        "value_reservist_with_house": "",
+        "value_combat_no_house": "",
+        "total_development": ""
+      }
+    ]
+  }
+]
