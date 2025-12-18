@@ -137,13 +137,7 @@ export default function TenderModal({ tender, rawTender, onClose }: TenderModalP
                           מחיר מלא
                         </th>
                         <th className="px-4 py-3 text-right text-xs font-semibold text-gray-700 uppercase tracking-wider hidden md:table-cell">
-                          מילואים ללא בית
-                        </th>
-                        <th className="px-4 py-3 text-right text-xs font-semibold text-gray-700 uppercase tracking-wider hidden md:table-cell">
-                          מילואים עם בית
-                        </th>
-                        <th className="px-4 py-3 text-right text-xs font-semibold text-gray-700 uppercase tracking-wider hidden lg:table-cell">
-                          קרבי ללא בית
+                          בשירות מילואים
                         </th>
                         <th className="px-4 py-3 text-right text-xs font-semibold text-gray-700 uppercase tracking-wider hidden lg:table-cell">
                           סה״כ פיתוח
@@ -178,16 +172,6 @@ export default function TenderModal({ tender, rawTender, onClose }: TenderModalP
                           <td className="px-4 py-4 whitespace-nowrap hidden md:table-cell">
                             <span className="text-sm text-gray-700">
                               {formatPrice(plot.value_reservist_no_house)}
-                            </span>
-                          </td>
-                          <td className="px-4 py-4 whitespace-nowrap hidden md:table-cell">
-                            <span className="text-sm text-gray-700">
-                              {formatPrice(plot.value_reservist_with_house)}
-                            </span>
-                          </td>
-                          <td className="px-4 py-4 whitespace-nowrap hidden lg:table-cell">
-                            <span className="text-sm text-gray-700">
-                              {formatPrice(plot.value_combat_no_house)}
                             </span>
                           </td>
                           <td className="px-4 py-4 whitespace-nowrap hidden lg:table-cell">
