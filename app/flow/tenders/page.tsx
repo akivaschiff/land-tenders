@@ -79,6 +79,7 @@ function EmailSignupPopup({ onClose }: { onClose: () => void }) {
   const [email, setEmail] = useState('');
   const [done, setDone] = useState(false);
   const [saving, setSaving] = useState(false);
+  const isEmailValid = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
@@ -123,8 +124,8 @@ function EmailSignupPopup({ onClose }: { onClose: () => void }) {
               />
               <button
                 type="submit"
-                disabled={saving}
-                className="w-full bg-terracotta-500 text-white font-bold py-3 rounded-2xl active:scale-95 transition-all disabled:opacity-50"
+                disabled={saving || !isEmailValid}
+                className="w-full bg-terracotta-500 text-white font-bold py-3 rounded-2xl active:scale-95 transition-all disabled:opacity-40 disabled:cursor-not-allowed"
               >
                 {saving ? 'שומר...' : 'אשמח לקבל עדכונים'}
               </button>
