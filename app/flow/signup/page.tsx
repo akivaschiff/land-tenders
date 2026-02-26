@@ -158,7 +158,9 @@ export default function SignupPage() {
     }
   }
 
-  const displayPhone = form.phone.replace(/\D/g, '').slice(-4);
+  const phoneDigits = form.phone.replace(/\D/g, '');
+  const isPhoneValid = /^05\d{8}$/.test(phoneDigits);
+  const displayPhone = phoneDigits.slice(-4);
 
   // ── Sending ──────────────────────────────────────────────────────
   if (step === 'sending') {
@@ -285,12 +287,34 @@ export default function SignupPage() {
                   <LabeledInput label="שם משפחה" type="text" placeholder="ישראלי" required value={form.lastName} onChange={e => setForm(f => ({ ...f, lastName: e.target.value }))} />
                 </div>
               </div>
-              <LabeledInput label="מספר טלפון" type="tel" placeholder="05X-XXXXXXX" required value={form.phone} onChange={e => setForm(f => ({ ...f, phone: e.target.value }))} />
+              <div>
+                <label className="block text-xs font-bold text-gray-400 mb-1 pr-1 text-right">מספר טלפון</label>
+                <input
+                  type="tel"
+                  inputMode="numeric"
+                  placeholder="05X-XXXXXXX"
+                  required
+                  value={form.phone}
+                  onChange={e => setForm(f => ({ ...f, phone: e.target.value }))}
+                  className={`w-full bg-white border-2 rounded-2xl px-4 py-3 text-sm text-gray-900 placeholder-gray-300 focus:outline-none transition-colors text-right ${
+                    form.phone && !isPhoneValid
+                      ? 'border-red-300 focus:border-red-400'
+                      : 'border-gray-200 focus:border-terracotta-400'
+                  }`}
+                />
+                {form.phone && !isPhoneValid && (
+                  <p className="text-xs text-red-400 mt-1 pr-1 text-right">מספר צריך להתחיל ב-05 ולהכיל 10 ספרות</p>
+                )}
+              </div>
             </div>
           </div>
 
           <div>
-            <button type="submit" className="w-full bg-terracotta-500 active:scale-[0.98] text-white font-extrabold py-4 rounded-2xl shadow-lg text-lg transition-all duration-150">
+            <button
+              type="submit"
+              disabled={!isPhoneValid || !form.firstName || !form.lastName}
+              className="w-full bg-terracotta-500 active:scale-[0.98] text-white font-extrabold py-4 rounded-2xl shadow-lg text-lg transition-all duration-150 disabled:opacity-40 disabled:cursor-not-allowed"
+            >
               קבלו קוד SMS ←
             </button>
             <p className="text-center text-xs text-gray-300 mt-2.5">נשלח קוד לטלפון · זה לוקח 30 שניות</p>
