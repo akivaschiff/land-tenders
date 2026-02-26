@@ -45,7 +45,7 @@ export default function FlowLandingPage() {
             <span className="block text-terracotta-500">מאות אלפי שקלים</span>
           </h1>
           <p className="text-gray-500 text-base leading-relaxed">
-            על קרקע ממשלתית. המדינה מעניקה למשרתי מילואים הנחה אדירה — וכמעט אף אחד לא מנצל אותה.
+            על רכישת קרקע. המדינה מעניקה למשרתי מילואים הנחה אדירה — וכמעט אף אחד לא מנצל אותה.
           </p>
         </div>
 
