@@ -108,10 +108,9 @@ function EmailSignupPopup({ onClose }: { onClose: () => void }) {
       >
         {!done ? (
           <>
-            <div className="text-4xl mb-3 text-center">📬</div>
-            <h2 className="text-xl font-bold text-gray-900 text-center mb-1">קבלו עדכון ראשונים</h2>
-            <p className="text-gray-500 text-sm text-center mb-5">
-              נודיע לכם מיד כשמכרז חדש נפתח
+            <div className="text-4xl mb-4 text-center">📬</div>
+            <p className="text-gray-800 text-base font-semibold text-center mb-5">
+              נודיע לך מיד כשמכרז חדש נפתח
             </p>
             <form onSubmit={handleSubmit} className="space-y-3">
               <input
@@ -134,8 +133,8 @@ function EmailSignupPopup({ onClose }: { onClose: () => void }) {
         ) : (
           <div className="text-center py-4">
             <div className="text-5xl mb-3">🎉</div>
-            <h2 className="text-xl font-bold text-gray-900 mb-1">נרשמתם בהצלחה!</h2>
-            <p className="text-gray-500 text-sm mb-5">נעדכן אתכם על כל מכרז חדש</p>
+            <h2 className="text-xl font-bold text-gray-900 mb-1">נרשמת בהצלחה!</h2>
+            <p className="text-gray-500 text-sm mb-5">נעדכן אותך על כל מכרז חדש</p>
             <button
               onClick={onClose}
               className="bg-terracotta-500 text-white font-bold px-8 py-3 rounded-2xl active:scale-95 transition-all"
@@ -365,7 +364,8 @@ export default function TendersPage() {
                 <h2 className="text-2xl font-bold text-white">התרעות חכמות</h2>
               </div>
               <p className="text-amber-50 text-base mb-4 leading-relaxed">
-                המערכת תשלח לך התרעה ברגע שהמדינה פותחת מכרז חדש שיכול להיות רלוונטי אליך 💪
+                המערכת תשלח לך התרעה ברגע שהמדינה פותחת מכרז חדש שיכול להיות{' '}
+                <span className="whitespace-nowrap">רלוונטי אליך 💪</span>
               </p>
               <button
                 onClick={() => setShowEmailPopup(true)}
