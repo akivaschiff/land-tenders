@@ -3,6 +3,9 @@
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 
+const SUPABASE_URL = process.env.NEXT_PUBLIC_SUPABASE_URL!;
+const ANON_KEY = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!;
+
 interface FormData {
   isReservist: boolean;
   hasProperty: boolean;
@@ -31,12 +34,9 @@ function Toggle({
           : 'bg-white border-gray-200'
       }`}
     >
-      {/* Label on the right (RTL) */}
       <span className={`font-medium text-sm text-right ${checked ? 'text-terracotta-800' : 'text-gray-700'}`}>
         {label}
       </span>
-
-      {/* Toggle track — dir="ltr" so the circle always slides left→right */}
       <div
         dir="ltr"
         className={`relative w-11 h-6 rounded-full transition-colors duration-200 flex-shrink-0 ml-3 ${
@@ -53,8 +53,11 @@ function Toggle({
   );
 }
 
+type Step = 'form' | 'otp' | 'loading';
+
 export default function SignupPage() {
   const router = useRouter();
+  const [step, setStep] = useState<Step>('form');
   const [form, setForm] = useState<FormData>({
     isReservist: false,
     hasProperty: false,
@@ -63,21 +66,128 @@ export default function SignupPage() {
     lastName: '',
     phone: '',
   });
-  const [loading, setLoading] = useState(false);
+  const [otpCode, setOtpCode] = useState('');
+  const [otpError, setOtpError] = useState('');
+  const [otpLoading, setOtpLoading] = useState(false);
+  const [resendCooldown, setResendCooldown] = useState(0);
 
-  function handleSubmit(e: React.FormEvent) {
+  async function handleFormSubmit(e: React.FormEvent) {
     e.preventDefault();
-    setLoading(true);
-    localStorage.setItem('userProfile', JSON.stringify(form));
-    setTimeout(() => router.push('/flow/tenders'), 2500);
+    setStep('loading');
+    try {
+      const res = await fetch(`${SUPABASE_URL}/functions/v1/request-otp`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${ANON_KEY}`,
+        },
+        body: JSON.stringify({
+          phone: form.phone,
+          firstName: form.firstName,
+          lastName: form.lastName,
+          isReservist: form.isReservist,
+          hasProperty: form.hasProperty,
+          isCombat: form.isCombat,
+        }),
+      });
+      const data = await res.json();
+      if (!res.ok) {
+        const messages: Record<string, string> = {
+          rate_limit_exceeded: 'שלחנו יותר מדי קודים. נסו שוב עוד שעה.',
+          invalid_phone: 'מספר הטלפון לא תקין.',
+        };
+        setOtpError(messages[data.error] || 'שגיאה בשליחת הקוד. נסו שוב.');
+        setStep('form');
+        return;
+      }
+      setStep('otp');
+      startResendCooldown();
+    } catch {
+      setOtpError('שגיאה בחיבור. נסו שוב.');
+      setStep('form');
+    }
   }
 
-  if (loading) {
+  function startResendCooldown() {
+    setResendCooldown(60);
+    const interval = setInterval(() => {
+      setResendCooldown(n => {
+        if (n <= 1) { clearInterval(interval); return 0; }
+        return n - 1;
+      });
+    }, 1000);
+  }
+
+  async function handleResend() {
+    if (resendCooldown > 0) return;
+    setOtpError('');
+    try {
+      const res = await fetch(`${SUPABASE_URL}/functions/v1/request-otp`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${ANON_KEY}`,
+        },
+        body: JSON.stringify({
+          phone: form.phone,
+          firstName: form.firstName,
+          lastName: form.lastName,
+          isReservist: form.isReservist,
+          hasProperty: form.hasProperty,
+          isCombat: form.isCombat,
+        }),
+      });
+      if (res.ok) startResendCooldown();
+    } catch {
+      // silent fail
+    }
+  }
+
+  async function handleOtpSubmit(e: React.FormEvent) {
+    e.preventDefault();
+    setOtpError('');
+    setOtpLoading(true);
+    try {
+      const res = await fetch(`${SUPABASE_URL}/functions/v1/verify-otp`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${ANON_KEY}`,
+        },
+        body: JSON.stringify({ phone: form.phone, code: otpCode }),
+      });
+      const data = await res.json();
+      if (!res.ok) {
+        const messages: Record<string, string> = {
+          invalid_code: 'קוד שגוי. נסו שוב.',
+          expired_code: 'הקוד פג תוקף. שלחו קוד חדש.',
+        };
+        setOtpError(messages[data.error] || 'שגיאה. נסו שוב.');
+        setOtpLoading(false);
+        return;
+      }
+      // Store tokens
+      const { access_token, refresh_token } = data;
+      localStorage.setItem('sb-access-token', access_token);
+      localStorage.setItem('sb-refresh-token', refresh_token);
+      // Set cookie for middleware (30 day expiry)
+      document.cookie = `sb-access-token=${access_token}; path=/; max-age=${30 * 24 * 60 * 60}; SameSite=Lax`;
+      router.push('/flow/tenders');
+    } catch {
+      setOtpError('שגיאה בחיבור. נסו שוב.');
+      setOtpLoading(false);
+    }
+  }
+
+  const lastFourDigits = form.phone.replace(/\D/g, '').slice(-4);
+
+  // Loading screen
+  if (step === 'loading') {
     return (
       <div className="min-h-screen bg-gradient-to-b from-amber-50 to-white flex flex-col items-center justify-center" dir="rtl">
-        <div className="text-6xl mb-5 animate-bounce">🏡</div>
-        <h2 className="text-xl font-bold text-terracotta-700 mb-1">מחפשים עסקאות בשבילך...</h2>
-        <p className="text-gray-500 text-sm">רגע אחד, בודקים מה מגיע לך</p>
+        <div className="text-6xl mb-5 animate-bounce">📱</div>
+        <h2 className="text-xl font-bold text-terracotta-700 mb-1">שולחים קוד...</h2>
+        <p className="text-gray-500 text-sm">רגע אחד</p>
         <div className="mt-6 flex gap-1.5">
           {[0, 1, 2].map(i => (
             <div
@@ -91,6 +201,69 @@ export default function SignupPage() {
     );
   }
 
+  // OTP screen
+  if (step === 'otp') {
+    return (
+      <div className="min-h-screen bg-gradient-to-b from-amber-50 to-white" dir="rtl">
+        <div className="px-5 pt-8 pb-8 max-w-md mx-auto">
+          <button
+            onClick={() => { setStep('form'); setOtpCode(''); setOtpError(''); }}
+            className="text-gray-400 text-sm mb-4 flex items-center gap-1"
+          >
+            → חזרה
+          </button>
+
+          <div className="text-5xl mb-4 text-center">💬</div>
+          <h1 className="text-2xl font-extrabold text-gray-900 mb-1 text-center">הכנסו את הקוד</h1>
+          <p className="text-gray-500 text-sm mb-6 text-center">
+            שלחנו קוד אימות למספר המסתיים ב־{lastFourDigits}
+          </p>
+
+          <form onSubmit={handleOtpSubmit} className="space-y-4">
+            <input
+              type="text"
+              inputMode="numeric"
+              pattern="[0-9]*"
+              placeholder="000000"
+              maxLength={6}
+              required
+              value={otpCode}
+              onChange={e => setOtpCode(e.target.value.replace(/\D/g, ''))}
+              className="w-full bg-white border-2 border-gray-200 rounded-2xl px-4 py-4 text-2xl font-bold text-center tracking-widest text-gray-800 placeholder-gray-300 focus:border-terracotta-400 focus:outline-none transition-colors"
+              autoFocus
+            />
+
+            {otpError && (
+              <p className="text-red-500 text-sm text-center">{otpError}</p>
+            )}
+
+            <button
+              type="submit"
+              disabled={otpLoading || otpCode.length < 6}
+              className="w-full bg-terracotta-500 active:scale-95 text-white font-bold py-3.5 rounded-2xl shadow-lg transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              {otpLoading ? 'מאמתים...' : 'אמתו את הקוד ←'}
+            </button>
+          </form>
+
+          <div className="mt-6 text-center">
+            {resendCooldown > 0 ? (
+              <p className="text-gray-400 text-sm">שלח שוב בעוד {resendCooldown} שניות</p>
+            ) : (
+              <button
+                onClick={handleResend}
+                className="text-terracotta-500 text-sm font-medium underline"
+              >
+                שלחו קוד חדש
+              </button>
+            )}
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  // Form screen
   return (
     <div className="min-h-screen bg-gradient-to-b from-amber-50 to-white" dir="rtl">
       <div className="px-5 pt-8 pb-8 max-w-md mx-auto">
@@ -105,7 +278,13 @@ export default function SignupPage() {
         <h1 className="text-2xl font-extrabold text-gray-900 mb-0.5">כמה פרטים קטנים</h1>
         <p className="text-gray-500 text-sm mb-5">נמצא לכם את הדילים הכי רלוונטיים</p>
 
-        <form onSubmit={handleSubmit} className="space-y-5">
+        {otpError && (
+          <div className="mb-4 bg-red-50 border border-red-200 rounded-2xl px-4 py-3 text-red-600 text-sm">
+            {otpError}
+          </div>
+        )}
+
+        <form onSubmit={handleFormSubmit} className="space-y-5">
 
           {/* Eligibility */}
           <div>

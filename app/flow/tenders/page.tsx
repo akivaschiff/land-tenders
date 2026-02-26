@@ -1,8 +1,16 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import { createClient } from '@supabase/supabase-js';
 
 const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwCn3K0xwhPg_Fnu88Hl5eKWAnW3pf6RyZ1SZaYyMB6vOSeJyhN1k-xoTtZ5tyyLqds/exec';
+
+function getSupabaseClient() {
+  return createClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL!,
+    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
+  );
+}
 const WHATSAPP_NUMBER = '972521234567';
 const CONTACT_EMAIL = 'tami@mitrani.co.il';
 
@@ -70,10 +78,24 @@ function closingLabel(days: number | null): string {
 function EmailSignupPopup({ onClose }: { onClose: () => void }) {
   const [email, setEmail] = useState('');
   const [done, setDone] = useState(false);
+  const [saving, setSaving] = useState(false);
 
-  function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
-    console.log('Email signup:', email);
+    setSaving(true);
+    try {
+      const supabase = getSupabaseClient();
+      // Restore session from localStorage so the insert is authenticated
+      const accessToken = localStorage.getItem('sb-access-token');
+      const refreshToken = localStorage.getItem('sb-refresh-token');
+      if (accessToken && refreshToken) {
+        await supabase.auth.setSession({ access_token: accessToken, refresh_token: refreshToken });
+      }
+      await supabase.from('email_signups').insert({ email });
+    } catch {
+      // Non-fatal: proceed to success state even if insert fails
+    }
+    setSaving(false);
     setDone(true);
   }
 
@@ -102,9 +124,10 @@ function EmailSignupPopup({ onClose }: { onClose: () => void }) {
               />
               <button
                 type="submit"
-                className="w-full bg-terracotta-500 text-white font-bold py-3 rounded-2xl active:scale-95 transition-all"
+                disabled={saving}
+                className="w-full bg-terracotta-500 text-white font-bold py-3 rounded-2xl active:scale-95 transition-all disabled:opacity-50"
               >
-                הירשמו לעדכונים
+                {saving ? 'שומר...' : 'הירשמו לעדכונים'}
               </button>
             </form>
           </>
