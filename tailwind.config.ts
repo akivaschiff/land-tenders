@@ -62,6 +62,7 @@ const config: Config = {
       fontFamily: {
         display: ['Outfit', 'system-ui', 'sans-serif'],
         body: ['Inter', 'system-ui', 'sans-serif'],
+        hebrew: ['Heebo', 'system-ui', 'sans-serif'],
       },
       animation: {
         'float': 'float 6s ease-in-out infinite',
