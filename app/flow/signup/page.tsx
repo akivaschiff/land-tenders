@@ -192,7 +192,7 @@ export default function SignupPage() {
 
           <div className="text-center mb-8">
             <div className="text-5xl mb-4">💬</div>
-            <h1 className="text-2xl font-black text-gray-900 mb-2">הכנסו את הקוד</h1>
+            <h1 className="text-2xl font-black text-gray-900 mb-2">מה הקוד שקיבלת?</h1>
             <p className="text-gray-400 text-sm">
               שלחנו 6 ספרות למספר המסתיים ב-<span className="font-black text-gray-600 tracking-widest">{displayPhone}</span>
             </p>
@@ -207,7 +207,14 @@ export default function SignupPage() {
               maxLength={6}
               required
               value={otpCode}
-              onChange={e => { setOtpError(''); setOtpCode(e.target.value.replace(/\D/g, '')); }}
+              onChange={e => {
+                setOtpError('');
+                const val = e.target.value.replace(/\D/g, '');
+                setOtpCode(val);
+                if (val.length === 6) {
+                  setTimeout(() => (e.target.form as HTMLFormElement)?.requestSubmit(), 0);
+                }
+              }}
               autoFocus
               className={`w-full bg-white border-2 rounded-2xl px-4 py-5 text-3xl font-black text-center tracking-[0.4em] text-gray-900 placeholder-gray-200 focus:outline-none transition-all duration-200 ${
                 otpError ? 'border-red-300 bg-red-50' : 'border-gray-200 focus:border-terracotta-400'
@@ -225,7 +232,7 @@ export default function SignupPage() {
               disabled={otpLoading || otpCode.length < 6}
               className="w-full bg-terracotta-500 active:scale-[0.98] text-white font-extrabold py-4 rounded-2xl shadow-lg text-lg transition-all duration-150 disabled:opacity-40 disabled:cursor-not-allowed"
             >
-              {otpLoading ? 'מאמתים...' : 'אמתו וקדמו ←'}
+              {otpLoading ? 'מאמתים...' : 'המשך ←'}
             </button>
           </form>
 
