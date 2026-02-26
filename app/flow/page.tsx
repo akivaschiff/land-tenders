@@ -79,9 +79,12 @@ export default function FlowLandingPage() {
         <div className="text-center pt-2">
           <p className="text-xs text-gray-400 mb-1.5">לא בשירות מילואים?</p>
           <a
-            href={`https://wa.me/?text=${encodeURIComponent('גילית שמשרתי מילואים זכאים להנחה של מאות אלפי ₪ על קרקע ממשלתית 🏡\nבדקו אם מגיע לכם: https://mitrani.co.il/flow')}`}
-            target="_blank"
-            rel="noopener noreferrer"
+            href="#"
+            onClick={(e) => {
+              e.preventDefault();
+              const url = `${window.location.origin}/flow`;
+              window.open(`https://wa.me/?text=${encodeURIComponent(`גילית שמשרתי מילואים זכאים להנחה של מאות אלפי ₪ על קרקע ממשלתית 🏡\nבדקו אם מגיע לכם: ${url}`)}`, '_blank', 'noopener,noreferrer');
+            }}
             className="text-terracotta-500 font-bold text-sm underline underline-offset-2"
           >
             שתף/י חבר/ה שכן בשירות 🤝
