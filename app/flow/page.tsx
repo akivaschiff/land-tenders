@@ -40,13 +40,12 @@ export default function FlowLandingPage() {
 
         {/* Hero — lines broken intentionally short so each fits on mobile */}
         <div className="mb-10">
-          <h1 className="text-4xl font-black text-gray-900 leading-tight mb-3" style={{ wordBreak: 'keep-all', overflowWrap: 'anywhere' }}>
-            <span className="block">יש לך הנחה</span>
-            <span className="block text-terracotta-500">של מאות אלפי ₪</span>
-            <span className="block text-2xl font-bold text-gray-600 mt-1">על קרקע מהמדינה.</span>
+          <h1 className="text-4xl font-black text-gray-900 leading-tight mb-3">
+            <span className="block">יש לך הנחה של</span>
+            <span className="block text-terracotta-500">מאות אלפי שקלים</span>
           </h1>
           <p className="text-gray-500 text-base leading-relaxed">
-            המדינה מעניקה למשרתי מילואים הנחה אדירה על מכרזי קרקע ממשלתיים — וכמעט אף אחד לא מנצל אותה.
+            על קרקע ממשלתית. המדינה מעניקה למשרתי מילואים הנחה אדירה — וכמעט אף אחד לא מנצל אותה.
           </p>
         </div>
 
