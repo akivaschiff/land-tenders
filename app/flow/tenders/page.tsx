@@ -11,7 +11,7 @@ function getSupabaseClient() {
     process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
   );
 }
-const WHATSAPP_NUMBER = '972521234567';
+const WHATSAPP_NUMBER = '972506727669';
 const CONTACT_EMAIL = 'tami@mitrani.co.il';
 
 interface TenderMetadata {
@@ -127,7 +127,7 @@ function EmailSignupPopup({ onClose }: { onClose: () => void }) {
                 disabled={saving}
                 className="w-full bg-terracotta-500 text-white font-bold py-3 rounded-2xl active:scale-95 transition-all disabled:opacity-50"
               >
-                {saving ? 'שומר...' : 'הירשמו לעדכונים'}
+                {saving ? 'שומר...' : 'אשמח לקבל עדכונים'}
               </button>
             </form>
           </>
@@ -361,17 +361,17 @@ export default function TendersPage() {
             <div className="absolute bottom-0 right-0 w-24 h-24 bg-white/5 rounded-full translate-x-6 translate-y-6" />
             <div className="relative">
               <div className="flex items-center gap-2 mb-3">
-                <span className="text-3xl">✨</span>
-                <h2 className="text-2xl font-bold text-white">אל תפספסו הזדמנויות</h2>
+                <span className="text-3xl">🔔</span>
+                <h2 className="text-2xl font-bold text-white">התרעות חכמות</h2>
               </div>
               <p className="text-amber-50 text-base mb-4 leading-relaxed">
-                קבלו התראה ישירות למייל ברגע שמכרז חדש נפתח — תהיו הראשונים לדעת
+                המערכת תשלח לך התרעה ברגע שהמדינה פותחת מכרז חדש שיכול להיות רלוונטי אליך 💪
               </p>
               <button
                 onClick={() => setShowEmailPopup(true)}
                 className="w-full bg-white text-terracotta-600 font-bold py-3 px-6 rounded-xl shadow-md hover:shadow-lg active:scale-95 transition-all duration-200"
               >
-                הירשמו לעדכונים 📬
+                אשמח לקבל עדכונים 📬
               </button>
             </div>
           </div>
