@@ -192,7 +192,7 @@ export default function SignupPage() {
 
           <div className="text-center mb-8">
             <div className="text-5xl mb-4">💬</div>
-            <h1 className="text-2xl font-black text-gray-900 mb-2">הכנס/י את הקוד</h1>
+            <h1 className="text-2xl font-black text-gray-900 mb-2">הכנסו את הקוד</h1>
             <p className="text-gray-400 text-sm">
               שלחנו 6 ספרות למספר המסתיים ב-<span className="font-black text-gray-600 tracking-widest">{displayPhone}</span>
             </p>
@@ -233,7 +233,7 @@ export default function SignupPage() {
             {resendCooldown > 0 ? (
               <p className="text-gray-300 text-sm">שלח קוד חדש בעוד <span className="font-bold text-gray-400">{resendCooldown}</span> שניות</p>
             ) : (
-              <button onClick={handleResend} className="text-terracotta-500 text-sm font-bold underline underline-offset-2">שלח/י קוד חדש</button>
+              <button onClick={handleResend} className="text-terracotta-500 text-sm font-bold underline underline-offset-2">שלחו קוד חדש</button>
             )}
           </div>
           <p className="text-center text-xs text-gray-300 mt-8">המספר לא יועבר לאף גורם שלישי</p>
@@ -255,7 +255,7 @@ export default function SignupPage() {
         <StepDots current={1} />
 
         <div className="mb-6">
-          <h1 className="text-2xl font-black text-gray-900 mb-1">ספר/י לנו עליך</h1>
+          <h1 className="text-2xl font-black text-gray-900 mb-1">קצת פרטים עליך:</h1>
           <p className="text-gray-400 text-sm">כדי לדעת בדיוק כמה מגיע לך</p>
         </div>
 
@@ -267,11 +267,11 @@ export default function SignupPage() {
 
         <form onSubmit={handleFormSubmit} className="space-y-6">
           <div>
-            <p className="text-[11px] font-black text-gray-300 uppercase tracking-widest mb-2.5">זכאות — סמן/י מה שמתאים לך</p>
+            <p className="text-[11px] font-black text-gray-300 uppercase tracking-widest mb-2.5">זכאות — בחרו מה שמתאים</p>
             <div className="space-y-2">
-              <ToggleCard icon="🎖️" label="אני בשירות מילואים" sub="פעיל/ה בשנה האחרונה" checked={form.isReservist} onChange={v => setForm(f => ({ ...f, isReservist: v }))} />
+              <ToggleCard icon="🎖️" label="אני בשירות מילואים" sub="שירות פעיל בשנה האחרונה" checked={form.isReservist} onChange={v => setForm(f => ({ ...f, isReservist: v }))} />
               <ToggleCard icon="🏠" label="יש לי כבר נכס ברשותי" sub="דירה, קרקע, או נכס אחר" checked={form.hasProperty} onChange={v => setForm(f => ({ ...f, hasProperty: v }))} />
-              <ToggleCard icon="🪖" label="שירתי ביחידה קרבית" sub='לוחם/ת, צנחן/ית, מג"ד ומעלה' checked={form.isCombat} onChange={v => setForm(f => ({ ...f, isCombat: v }))} />
+              <ToggleCard icon="🪖" label="שירתי ביחידה קרבית" sub='לוחם, צנחן, מג"ד ומעלה' checked={form.isCombat} onChange={v => setForm(f => ({ ...f, isCombat: v }))} />
             </div>
           </div>
 
@@ -315,7 +315,7 @@ export default function SignupPage() {
               disabled={!isPhoneValid || !form.firstName || !form.lastName}
               className="w-full bg-terracotta-500 active:scale-[0.98] text-white font-extrabold py-4 rounded-2xl shadow-lg text-lg transition-all duration-150 disabled:opacity-40 disabled:cursor-not-allowed"
             >
-              קבלו קוד SMS ←
+              אפשר להמשיך ←
             </button>
             <p className="text-center text-xs text-gray-300 mt-2.5">נשלח קוד לטלפון · זה לוקח 30 שניות</p>
           </div>
