@@ -5,7 +5,7 @@ import Link from 'next/link';
 const steps = [
   {
     num: '01',
-    title: 'קצת פרטים עליכם',
+    title: 'קצת עליך',
     sub: 'שירות מילואים, יחידה קרבית, נכסים ברשותך',
   },
   {
@@ -15,7 +15,7 @@ const steps = [
   },
   {
     num: '03',
-    title: 'תדעו בדיוק כמה זה עולה לכם',
+    title: 'נחשב בדיוק כמה זה עולה לך',
     sub: 'מחיר אמיתי, אחרי כל ההנחות שמגיעות לך',
   },
 ];
@@ -46,7 +46,7 @@ export default function FlowLandingPage() {
             <span className="block text-2xl font-bold text-gray-600 mt-1">על קרקע מהמדינה.</span>
           </h1>
           <p className="text-gray-500 text-base leading-relaxed">
-            משרתי מילואים זכאים להנחה אדירה על מכרזי קרקע ממשלתיים — וכמעט אף אחד לא מנצל אותה.
+            המדינה מעניקה למשרתי מילואים הנחה אדירה על מכרזי קרקע ממשלתיים — וכמעט אף אחד לא מנצל אותה.
           </p>
         </div>
 
@@ -87,7 +87,7 @@ export default function FlowLandingPage() {
             }}
             className="text-terracotta-500 font-bold text-sm underline underline-offset-2"
           >
-            שתפו חבר שבשירות 🤝
+            לשתף חברים וחברות בשירות מילואים 🤝
           </a>
         </div>
 
