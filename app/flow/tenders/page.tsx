@@ -179,7 +179,7 @@ function ContactPopup({ tender, onClose }: { tender: SheetData; onClose: () => v
             שלחו הודעה בוואטסאפ
           </a>
           <a
-            href={`mailto:${CONTACT_EMAIL}?subject=מעוניין/ת במכרז ${tender.metadata.location}`}
+            href={`mailto:${CONTACT_EMAIL}?subject=התעניינות במכרז ${tender.metadata.location}`}
             className="flex items-center justify-center gap-2 w-full bg-white border-2 border-gray-200 text-gray-700 font-bold py-3.5 rounded-2xl active:scale-95 transition-all"
           >
             <span className="text-xl">✉️</span>
@@ -282,7 +282,7 @@ function TenderDetailSheet({
             onClick={onInterested}
             className="w-full bg-terracotta-500 hover:bg-terracotta-600 active:scale-95 text-white font-bold py-4 rounded-2xl shadow-lg transition-all duration-200 text-lg"
           >
-            אני מעוניין/ת בעסקה הזאת
+            מעניין אותי — אשמח לפרטים
           </button>
         </div>
       </div>

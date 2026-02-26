@@ -242,7 +242,7 @@ export default function UserInfoModal({ isOpen, onClose }: UserInfoModalProps) {
                 }`}
               >
                 <div className="flex items-center justify-center gap-3">
-                  <span className="font-medium">רווק/ה</span>
+                  <span className="font-medium">רווק</span>
                   <div className={`w-5 h-5 rounded-full border-2 flex items-center justify-center ${
                     formData.maritalStatus === 'single' ? 'border-terracotta-500' : 'border-gray-300'
                   }`}>
@@ -262,7 +262,7 @@ export default function UserInfoModal({ isOpen, onClose }: UserInfoModalProps) {
                 }`}
               >
                 <div className="flex items-center justify-center gap-3">
-                  <span className="font-medium">נשוי/אה</span>
+                  <span className="font-medium">נשוי</span>
                   <div className={`w-5 h-5 rounded-full border-2 flex items-center justify-center ${
                     formData.maritalStatus === 'married' ? 'border-terracotta-500' : 'border-gray-300'
                   }`}>
@@ -283,7 +283,7 @@ export default function UserInfoModal({ isOpen, onClose }: UserInfoModalProps) {
             <label className="flex items-center gap-4 p-4 rounded-xl border-2 border-gray-200 hover:border-gray-300 transition-colors cursor-pointer">
               <div className="flex-1 text-right">
                 <div className="font-medium text-gray-900">שירות מילואים</div>
-                <div className="text-sm text-gray-600">משרת/ת כיום במילואים</div>
+                <div className="text-sm text-gray-600">בשירות מילואים כיום</div>
               </div>
               <input
                 type="checkbox"
@@ -297,7 +297,7 @@ export default function UserInfoModal({ isOpen, onClose }: UserInfoModalProps) {
             <label className="flex items-center gap-4 p-4 rounded-xl border-2 border-gray-200 hover:border-gray-300 transition-colors cursor-pointer">
               <div className="flex-1 text-right">
                 <div className="font-medium text-gray-900">יחידה קרבית</div>
-                <div className="text-sm text-gray-600">שירת/ה או משרת/ת ביחידה קרבית</div>
+                <div className="text-sm text-gray-600">שירות ביחידה קרבית</div>
               </div>
               <input
                 type="checkbox"
